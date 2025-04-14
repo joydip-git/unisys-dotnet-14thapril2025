@@ -1,0 +1,100 @@
+DotNet Core => .NET
+
+Microsoft
+90's => Component Object Model (VB 6.0, VC++)
+	library: Type Libraries (.tlb)
+	languages: VB 6.0, VC++ , etc.
+	tool: Visual Studio
+	web tech: ASP
+	data access tech: ADO, DAO, RDO
+	distributed techs: DCOM+
+
+Java
+
+.NET Framework [2002-2019/20]
+	library: Base/Framework Class Library (.dll)
+	web tech: ASP.NET
+	data access tech: ADO.NET
+	distributed tech: Web Services, Remoting and Component Service
+	desktop based techs: WinForm etc.
+	runtime: Common Language Runtime
+
+	languages: VC#.NET, VB.NET, VC++.NET, VF#.NET, VJ#.NET etc.
+	tools: Visual Studio .NET (IDE)
+
+	source code => CSC/VBC/VCC compilers => CIL code (machine independent language code - common intermediate language)
+	IL/CIL/MSIL => platform neutral code
+	
+	C# data type => IL data type (Common Type System)
+	int x=10; => 		Int32 x = 10;
+	dim x as Integer=10 => 	Int32 x = 10;	
+
+	sc file (.cs/.vb/..) => after compilation => *.dll (app without Main) or *.exe (app with Main) [output file - assembly -> reusable and standalone]
+
+	runtime s/w: mscoree.dll
+	IL code => Just-In-Time compiler (runtime compiler) => Machine Level Language Code (binary)
+
+	mscorlib.dll
+	mscoree.h => C++ header file contains method to load specific version of CLR to load (mscoree.dll)
+	
+
+
+Year	fv     rtv
+2002 	=> 1.0 => 1.0
+2003 	=> 1.1 => 1.0
+2005 	=> 2.0 => 2.0
+2007 	=> 3.0 => 2.0 [WPF -> desktop app, WCF -> common platform to create distributed apps and apps supporting SOA, WF -> ]
+2008 	=> 3.5 => 2.0 [ASP.NET AJAX + LINQ]
+2010 	=> 4.0 => 4.0 [ASP.NET MVC etc.]
+2012/13 => 4.5 => 4.0 [Xamarin]
+2015/16	=> 4.6 => 4.0 
+2017    => 4.7 => 4.0
+2019    => 4.8 => 4.0.30...
+
+
+Network Enabled Technologies
+
+com, in, net, org
+
+jQuery => JS library
+JS runtime
+
+chrome JS engine => V8 (open source)
+
+Ryan Dahl => Node JS (a JS runtime having a JS engine)
+
+JS code => Node JS => output
+2009 => Angular JS, React JS, Vue JS, Express JS, etc...
+
+2016 => 
+	".Net Core" 1.0 - 3.1
+		.NET Core runtime
+			.NET Desktop runtime => winform, wpf etc.
+			ASP.NET	Core runtime => web app	
+	Core Library
+	web tech: ASP.Net Core
+	data access tech: ADO.NET and Entity Framework Core
+	desktop based
+
+	VS Code + Visual Studio	
+
+smaller packages:
+	system.console.dll
+	system.collections.dll
+
+data: system.data.sqlclient.dll
+
+
+sc file (.cs/.vb/..) => after compilation => 
+	*.dll (app without Main or app with Main) [output file - assembly -> reusable and standalone] +
+	.exe file (NOT AN assembly)
+
+executable => output file *.dll + .exe (host)
+library    => output file *.dll
+
+.Net core re-branded as .NET 
+.NET 5.0, 6, 7, 8, 9, 10,...
+
+
+
+
