@@ -96,5 +96,29 @@ library    => output file *.dll
 .NET 5.0, 6, 7, 8, 9, 10,...
 
 
+.NET 9.0
+--------------------
+IDEs: Visual Studio 2022 (>=17.3.0) and Visual Studio Code
+
+word1-word2
+
+Roslyn compiler => for VB.NET and VC#.NET code
+
+SC => compiler (Roslyn) => output file with IL code and many other things (*.dll)
+if this is an executable type app (console, windows app etc.) an exra .exe file will be created to host the .dll file in the proces that is created for that exe
+this output file is also known as Assembly and you can view the content of an assembly using a tool provided with legacy framework => ILDASM
+ILDASM tool -> Intermediate Laguage DisAssembler
+
+Assembly segments:
+1. IL Code => kind of assembly level language code. direct convert from source code (high level language code) by compiler (Roslyn)
+2. Assmebly Metadata (Manifest)
+3. CLR Header is part of assembly and contains information about which .NET version was used to create the app. accordingly required version of .NET runtime will be loaded in the process memory.
+4. Type Metadata (Metainfo) => information or metadata about the code written in this application
+5. Otional 32 bit header (windows header)
+
+
+
+
+
 
 

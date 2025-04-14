@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net9.0\FirstApp.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net9.0\FirstApp.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net9.0\FirstApp.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net9.0\FirstApp.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net9.0\FirstApp.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\refint\FirstApp.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\FirstApp.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net9.0\ref\FirstApp.dll
