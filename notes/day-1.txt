@@ -116,9 +116,58 @@ Assembly segments:
 4. Type Metadata (Metainfo) => information or metadata about the code written in this application
 5. Otional 32 bit header (windows header)
 
+solution file (*.sln) => file containing references to one or multiple projects. its like a container, where projects are added.
+
+   project file (*.csproj)
+	source code files
+	dependencies
+	output folder (bin)
+	   net9.0
+	     .dll file (asembly)
+	     .exe file (host - optional, in case of executable apps)
+	     .json files	
+
+
+class objects in C#:
+ClassName <ref-var-name> = new Class-Ctor-Name(args...);
+1. memory blocks for the data members are allocated in the heap by runtime (memory starts from the address, which is pointed by Next Object Pointer)
+2. constructor is called and supplied values (to the ctor) are assigned to the member memory blocks
+3. NOP is adjusted in the heap to point to a free space, from which next object memory block can be allocated
+
+
+		data types
+value types			reference types
+---------------------------------------------------
+built-in user defined		built-in user-defined
+----------------------------------------------------------
+byte	  struct		Object		class
+sbyte     enum			string		interface
+short				....		delegate
+ushort						event
+int
+unit
+long
+ulong
+
+decimal
+float
+double
+
+bool
+char
+DateTime
+TimeSpan
+..............
+
+
+operators and control flow statements
+
+class access specifiers: public and internal
+class member access specifiers: public, private, protected, internal etc.
+	1. Data members
+	2. Methods
+	3. Properties: read-only, write-only, rw properties
 
 
 
-
-
-
+	

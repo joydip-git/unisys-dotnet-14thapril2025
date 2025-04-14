@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DC683E9-2449-43C4-A97B-5194C69145F0}|FirstApp\\FirstApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\firstapp\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DC683E9-2449-43C4-A97B-5194C69145F0}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC683E9-2449-43C4-A97B-5194C69145F0}|FirstApp\\FirstApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\firstapp\\firstapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC683E9-2449-43C4-A97B-5194C69145F0}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\FirstApp\\FirstApp\\Person.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Person.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\FirstApp\\FirstApp\\Person.cs",
+              "RelativeToolTip": "FirstApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:08:40.404Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "FirstApp\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\FirstApp\\FirstApp\\Program.cs",
               "RelativeToolTip": "FirstApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwCgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T07:09:01.573Z",
               "EditorCaption": ""
