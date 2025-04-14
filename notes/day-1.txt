@@ -128,12 +128,6 @@ solution file (*.sln) => file containing references to one or multiple projects.
 	     .json files	
 
 
-class objects in C#:
-ClassName <ref-var-name> = new Class-Ctor-Name(args...);
-1. memory blocks for the data members are allocated in the heap by runtime (memory starts from the address, which is pointed by Next Object Pointer)
-2. constructor is called and supplied values (to the ctor) are assigned to the member memory blocks
-3. NOP is adjusted in the heap to point to a free space, from which next object memory block can be allocated
-
 
 		data types
 value types			reference types
@@ -167,7 +161,10 @@ class member access specifiers: public, private, protected, internal etc.
 	1. Data members
 	2. Methods
 	3. Properties: read-only, write-only, rw properties
+	4. constructors
 
-
-
-	
+class objects in C#:
+ClassName <ref-var-name> = new Class-Ctor-Name(args...);
+1. memory blocks for the data members are allocated in the heap by runtime (memory starts from the address, which is pointed by Next Object Pointer)
+2. constructor is called and supplied values (to the ctor) are assigned to the member memory blocks
+3. NOP is adjusted in the heap to point to a free space, from which next object memory block can be allocated

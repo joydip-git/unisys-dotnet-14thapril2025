@@ -1,0 +1,26 @@
+create a console aplication named: PayrollApp
+this app is gong to store several employee objects and then calculate salary of every employee and then will print them
+
+create a class Employee with following
+	a. attributes: 
+		name: name of the employee, 
+		id: id of the employee, 
+		basicpay: basicpay of the employee,
+		dapay: dapay of the employee,
+		hrapay: hrapay of the employee,
+		totalpay: total calculated salary of an employee
+
+	b. properties for them
+	c. method: CalculateSalary -> calculates total salary of an employee based on basicpay, dapay and hrapay and saves the same in totalpay
+		type: instance
+		args: none
+		returns: none
+	d. constructors (default and parameterized)
+
+in the Main method
+a. create an array of size minimum 2
+b. create as many employees and add them in the array
+c. iterate through the employee and display the totalpay along with the name
+	   
+Note: in employee class there will be no code related to input and output (console.readline or writeline)
+

@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\bin\Debug\net9.0\ArrayDemo.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\bin\Debug\net9.0\ArrayDemo.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\bin\Debug\net9.0\ArrayDemo.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\bin\Debug\net9.0\ArrayDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\bin\Debug\net9.0\ArrayDemo.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\refint\ArrayDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ArrayDemo.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\ArrayDemo\ArrayDemo\obj\Debug\net9.0\ref\ArrayDemo.dll

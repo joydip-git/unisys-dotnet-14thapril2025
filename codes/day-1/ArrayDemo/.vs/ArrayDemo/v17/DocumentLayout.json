@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\ArrayDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425543CA-2785-46F0-8C6D-415DA852ABAA}|ArrayDemo\\ArrayDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\arraydemo\\arraydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425543CA-2785-46F0-8C6D-415DA852ABAA}|ArrayDemo\\ArrayDemo.csproj|solutionrelative:arraydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425543CA-2785-46F0-8C6D-415DA852ABAA}|ArrayDemo\\ArrayDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\arraydemo\\arraydemo\\arraydemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{425543CA-2785-46F0-8C6D-415DA852ABAA}|ArrayDemo\\ArrayDemo.csproj|solutionrelative:arraydemo\\arraydemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayDemo",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\ArrayDemo\\ArrayDemo\\ArrayDemo.csproj",
+              "RelativeDocumentMoniker": "ArrayDemo\\ArrayDemo.csproj",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\ArrayDemo\\ArrayDemo\\ArrayDemo.csproj",
+              "RelativeToolTip": "ArrayDemo\\ArrayDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T10:44:27.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\ArrayDemo\\ArrayDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayDemo\\Program.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\ArrayDemo\\ArrayDemo\\Program.cs",
+              "RelativeToolTip": "ArrayDemo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:37:22.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
