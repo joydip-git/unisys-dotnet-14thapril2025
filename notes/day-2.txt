@@ -14,4 +14,34 @@ Reflection: abput metadata of types. Relies on metadata to do other things.
 	3. create instance dynamically (on the fly)
 	3. invoke members of an instance dynamically (on the fly, such as methods, properties etc.)
 
+Inheritance:
+class A
+{
+	private string name;
+	private string location;
+	private string salary;
+
+	public A(){}
+
+	public A(string name, string location, string salary)
+	{
+		this.name = name;
+		this.location = location;
+		this.salary = salary;
+	}
+}
+class B:A
+{
+	string someData;
+
+	public B(){}
+
+	public B(string name, string location, string salary, string someData)
+	{		
+		this.someData = someData;
+	}
+}
+
+
+B obj = new B();
 

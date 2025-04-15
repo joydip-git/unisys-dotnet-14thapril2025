@@ -6,6 +6,15 @@ namespace PayRollApp
     {
         static void Main()
         {
+            //UseReflection();
+            //B.StaticMethod();
+            B obj1 = new B();
+            B obj2 = new B("anil", "blr", "1000", "someData");
+            //obj2.Call();
+        }
+        static void UseReflection()
+        {
+            
             //dynamic loading of an assembly
             Assembly loadedAssembly = Assembly.LoadFrom(@"D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\bin\Debug\net9.0\PayRollApp.Models.dll");
 
@@ -33,9 +42,24 @@ namespace PayRollApp
                     Console.WriteLine($"Type Name: {employeeTypeInfo?.Name}");
                     if (employeeTypeInfo != null)
                     {
-                        //employeeTypeInfo.GetConstructors();
-                        object? empObj = Activator.CreateInstance(employeeTypeInfo);
+                        FieldInfo[] allFields = employeeTypeInfo.GetFields(BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Static);
+                        Console.WriteLine("\nall fields\n");
+                        foreach (FieldInfo item in allFields)
+                        {
+                            Console.WriteLine($"name: {item.Name}");
+                            Console.WriteLine($"type: {item.FieldType}");
+                        }
+                        Console.WriteLine("\n");
 
+                        ConstructorInfo? paramCtor = employeeTypeInfo.GetConstructor([typeof(int), typeof(string), typeof(decimal), typeof(decimal), typeof(decimal)]);
+
+                        object? empObj = null;
+                        if (paramCtor != null)
+                        {
+                            empObj = paramCtor.Invoke([1, "Anil", 100M, 100M, 100M]);
+                        }
+                        //object? empObj = Activator.CreateInstance(employeeTypeInfo);
+                        /*
                         PropertyInfo? namePropertyInfo = employeeTypeInfo.GetProperty("Name");
                         if (namePropertyInfo != null)
                         {
@@ -58,7 +82,7 @@ namespace PayRollApp
                         {
                             hraPropertyInfo.SetValue(empObj, 100M);
                         }
-
+                        */
                         MethodInfo? methodInfo = employeeTypeInfo.GetMethod("CalculateSalary");
                         if (methodInfo != null)
                         {
@@ -81,7 +105,7 @@ namespace PayRollApp
                                     Console.WriteLine($"Pos: {p.Position}");
                                 }
                             }
-                        }                      
+                        }
 
                         PropertyInfo? propertyInfo = employeeTypeInfo.GetProperty("TotalPay");
                         if (propertyInfo != null)
