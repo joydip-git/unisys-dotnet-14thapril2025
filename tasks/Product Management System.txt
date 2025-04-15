@@ -5,11 +5,11 @@ Product Management System
 	- displaying all products information
 	- displaying a single product information
 
-Product model
+Product model: a class representing the application data about product
 	- id, name, price, description, make, year
 
-Repository
-	- collection to store product data
+Repository: 
+	is a class with a collection to store product records
 
 Data Access Layer: a class with methods with logic to 
 	- add product(s) in the repository
