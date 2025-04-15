@@ -1,0 +1,16 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\bin\Debug\net9.0\PayRollApp.Utility.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\bin\Debug\net9.0\PayRollApp.Utility.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\bin\Debug\net9.0\PayRollApp.Utility.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\bin\Debug\net9.0\PayRollApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\bin\Debug\net9.0\PayRollApp.Models.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.csproj.AssemblyReference.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollA.C3A01C8F.Up2Date
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\refint\PayRollApp.Utility.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\PayRollApp.Utility.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Utility\obj\Debug\net9.0\ref\PayRollApp.Utility.dll

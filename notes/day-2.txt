@@ -1,0 +1,17 @@
+data abstraction		
+implementation abstraction
+object abstraction
+
+Type => abstract
+
+every class has two extra hidden data members => top (type object pointer) and sbi (sync block index)
+
+Class empClsType = Employee.class
+
+Reflection: abput metadata of types. Relies on metadata to do other things.
+	1. load assembly dynamically
+	2. Runtime Type Discovery
+	3. create instance dynamically (on the fly)
+	3. invoke members of an instance dynamically (on the fly, such as methods, properties etc.)
+
+

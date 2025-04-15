@@ -17,10 +17,18 @@ namespace PayRollApp
             //UiUtility.SaveRecord(employees);
             //UiUtility.PrintRecords(employees);
 
-            int recordCount = GetRecordCount();
-            Employee[] employees = CreateStorage(recordCount);
-            SaveRecord(employees);
-            PrintRecords(employees);
+            //int recordCount = GetRecordCount();
+            //Employee[] employees = CreateStorage(recordCount);
+            //SaveRecord(employees);
+            //PrintRecords(employees);
+
+            //Type typeEmployee = typeof(Employee);
+            //Employee employee = new Employee();
+            //employee.CalculateSalary();
+            // employee.GetType();
+
+            //here w.r.t. static member class name acts as the reference to the type class object storing that class's information
+            //Console.WriteLine($"Company={Employee.Company}");
         }
     }
 }

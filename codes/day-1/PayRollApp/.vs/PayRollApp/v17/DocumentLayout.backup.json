@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\utility\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\utility\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\utility\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\utility\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\payrollapp\\payrollapp\\payrollapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8DDB9CB-4864-4A28-A75F-BF02D933A52D}|PayRollApp\\PayRollApp.csproj|solutionrelative:payrollapp\\payrollapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PayRollApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Models\\Employee.cs",
+              "RelativeToolTip": "PayRollApp\\Models\\Employee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:00:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UiUtility.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Utility\\UiUtility.cs",
               "RelativeDocumentMoniker": "PayRollApp\\Utility\\UiUtility.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Utility\\UiUtility.cs",
               "RelativeToolTip": "PayRollApp\\Utility\\UiUtility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T11:56:45.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PayRollApp",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\PayRollApp.csproj",
-              "RelativeDocumentMoniker": "PayRollApp\\PayRollApp.csproj",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\PayRollApp.csproj",
-              "RelativeToolTip": "PayRollApp\\PayRollApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-14T11:40:32.869Z",
               "EditorCaption": ""
             },
             {
@@ -68,31 +64,17 @@
               "RelativeToolTip": "PayRollApp\\Person.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAzwCEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T11:40:40.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T11:40:40.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Employee.cs",
-              "RelativeDocumentMoniker": "PayRollApp\\Employee.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Employee.cs",
-              "RelativeToolTip": "PayRollApp\\Employee.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAzwC8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T11:05:54.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Program.cs",
               "RelativeDocumentMoniker": "PayRollApp\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-1\\PayRollApp\\PayRollApp\\Program.cs",
               "RelativeToolTip": "PayRollApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T11:05:33.425Z",
               "EditorCaption": ""

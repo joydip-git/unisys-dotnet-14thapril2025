@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\bin\Debug\net9.0\PayRollApp.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\bin\Debug\net9.0\PayRollApp.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\bin\Debug\net9.0\PayRollApp.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\bin\Debug\net9.0\PayRollApp.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\bin\Debug\net9.0\PayRollApp.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\refint\PayRollApp.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\PayRollApp.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-1\PayRollApp\PayRollApp\obj\Debug\net9.0\ref\PayRollApp.dll

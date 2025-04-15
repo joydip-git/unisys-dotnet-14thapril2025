@@ -1,0 +1,12 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\bin\Debug\net9.0\PayRollApp.Models.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\bin\Debug\net9.0\PayRollApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\bin\Debug\net9.0\PayRollApp.Models.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\refint\PayRollApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\PayRollApp.Models.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\PayRollApp\PayRollApp.Models\obj\Debug\net9.0\ref\PayRollApp.Models.dll
