@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\bin\Debug\net9.0\OOP_Revision.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\bin\Debug\net9.0\OOP_Revision.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\bin\Debug\net9.0\OOP_Revision.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\bin\Debug\net9.0\OOP_Revision.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\bin\Debug\net9.0\OOP_Revision.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\refint\OOP_Revision.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\OOP_Revision.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\OOP_Revision\OOP_Revision\obj\Debug\net9.0\ref\OOP_Revision.dll

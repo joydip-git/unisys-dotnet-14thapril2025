@@ -1,0 +1,36 @@
+Product Management System
+	- adding product(s)
+	- removing product(s)
+	- updating product(s)
+	- displaying all products information
+	- displaying a single product information
+
+Product model
+	- id, name, price, description, make, year
+
+Repository
+	- collection to store product data
+
+Data Access Layer: a class with methods with logic to 
+	- add product(s) in the repository
+	- remove product(s) fron the repository, given the product id
+	- update product(s) in the repository, given the product id and updated product data
+	- display all products information by fetching the same from repository
+	- display a single product information, given the id of the product, by fetching the same from repository
+
+
+Business Layer: a class with methods with logic to 
+	- add: UI layer will call this method to add a product in the repository, by passg the product data to add. this method in turn will interact with DAL class method and pass the product data to add. will validate the product data before passing the same to the DAL method, else throws exception back to the UI layer.
+	- remove: UI layer will call this method to remove a product from the repository by passing the product id. this in turn will interact with DAL class method and pass the product id. will validate the product id before passing the same to the DAL method, else throws exception back to the UI layer.
+	- update: UI layer will call this method to update a product in the repository, by passing the product data and product id to update. this method in turn will interact with DAL class method and pass the product data and id to be updated. will validate the product data and id before passing the same to the DAL method, else throws exception back to the UI layer.
+	- fetchall: UI layer will call this method to get all the products from the repository. this in turn will call the DAL class method to fetch those records and pass back to the UI layer.
+	- fetch:  UI layer will call this method and pas an di of the product to get that product from the repository. this in turn will call the DAL class method and pass the same id to fetch the record and pass back to the UI layer. it will validate the id, else throw exception.
+	- additional methods: sorting the pridyct records, filter the records
+
+Presentation Layer
+	- display a menu to the user for different operations
+	- will get the user choice
+	- will call business layer methods for everything based on the user choice
+
+Presentation Layer => executable app
+Business, DAL, Models and repository => libraries

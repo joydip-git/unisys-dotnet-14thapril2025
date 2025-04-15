@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\dbdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\dbdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\filedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\filedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\oop_revision\\oop_revision\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC344EE8-288A-4F99-8FF0-FD9CFA3AC52B}|OOP_Revision\\OOP_Revision.csproj|solutionrelative:oop_revision\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DbDataReader.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\DbDataReader.cs",
+              "RelativeDocumentMoniker": "OOP_Revision\\DbDataReader.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\DbDataReader.cs",
+              "RelativeToolTip": "OOP_Revision\\DbDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:54:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileDataReader.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\FileDataReader.cs",
+              "RelativeDocumentMoniker": "OOP_Revision\\FileDataReader.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\FileDataReader.cs",
+              "RelativeToolTip": "OOP_Revision\\FileDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:54:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Program.cs",
               "RelativeDocumentMoniker": "OOP_Revision\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Program.cs",
               "RelativeToolTip": "OOP_Revision\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAzwCMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T04:06:32.6Z",
+              "WhenOpened": "2025-04-15T10:47:51.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Interfaces.cs",
+              "RelativeDocumentMoniker": "OOP_Revision\\Interfaces.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Interfaces.cs",
+              "RelativeToolTip": "OOP_Revision\\Interfaces.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:47:17.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Operations.cs",
+              "RelativeDocumentMoniker": "OOP_Revision\\Operations.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Operations.cs",
+              "RelativeToolTip": "OOP_Revision\\Operations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:36:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Reader.cs",
+              "RelativeDocumentMoniker": "OOP_Revision\\Reader.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\Reader.cs",
+              "RelativeToolTip": "OOP_Revision\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:35:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOperations.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\IOperations.cs",
+              "RelativeDocumentMoniker": "OOP_Revision\\IOperations.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\OOP_Revision\\OOP_Revision\\IOperations.cs",
+              "RelativeToolTip": "OOP_Revision\\IOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:31:40.606Z",
               "EditorCaption": ""
             }
           ]

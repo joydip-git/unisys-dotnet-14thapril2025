@@ -45,3 +45,110 @@ class B:A
 
 B obj = new B();
 
+
+A => virtual void M(){}	  B:A => override void M(){}
+A => abstract void M(){}  B:A => override void M(){}
+A => virtual void M(){}	  B:A => override void M(){}  C:B => override void M(){}
+A => abstract void M(){}  B:A => override void M(){}  C:B => sealed override void M(){}
+D:C => override void M(){} -> not possible
+
+sealed class A{}
+class B:A{} -> not possible
+
+
+interface
+dependency injection and IoC
+Builder Design Pattern
+
+
+class A { public void M(){} public void M1(){} }
+class B { public void M(){} public void M2(){} }
+class C:A, B
+{
+}
+
+C c = new C();
+c.M();
+
+interface IA { void M(); void M1(); }
+interface IB { void M(); void M2(); }
+class C:IA,IB
+{
+	//implicit implementation
+	//public void M(){}
+
+	//explicit implementation
+	void IA.M(){}
+	void IB.M(){}
+
+	public void M1(){}
+	public void M2(){}
+}
+
+C cobj = new C();
+//cobj.M();-> possible if the method is implemented implicitly
+
+IA ia = cobj;
+ia.M();
+
+IB ib = cobj;
+ib.M();
+
+abstract class Person
+	string name
+	abstract bool IsOutStading();
+
+Student:Person
+	
+	double marks
+	bool IsOutStading()=>marks>85;	
+
+Professor:Person
+
+	int booksPublished
+	bool IsOutStading()=>booksPublished>10;
+
+Employee:Person
+
+	int projectModulesComplted
+	bool IsOutStading()=>projectModulesComplted>7;
+
+interface IShape
+	double CalculateArea();
+
+Circle:IShape
+	double radius
+	double CalculateArea()=>Math.PI*radius*radius
+
+
+Triangle:IShape
+	double tBase
+	double tHeight
+	double CalculateArea()=>0.5*tBase*tHeight
+
+1.0 => C# 1.0
+1.1 => C# 1.1
+2.0 => C# 2.0
+3.0 => C# 3.0
+4.0 => C# 4.0
+4.5 => C# 5.0
+4.6 => C# 6.0
+4.7 => C# 7.0
+4.8 => C# 8.0
+
+.NET 5 => C# 9
+.NET 6 => C# 10
+.NET 7 => C# 11
+.NET 8 => C# 12
+.NET 9 => C# 13
+
+SOLID principle:
+S => Single Responsibilty
+S => Open Close Principle
+L => Liskov Substitution principle
+I => Interface Segregation
+D => Dependency Injection/Inversion [IoC => Inversion of Control]
+
+
+
+
