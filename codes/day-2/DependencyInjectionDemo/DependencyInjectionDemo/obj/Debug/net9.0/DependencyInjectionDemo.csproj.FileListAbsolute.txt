@@ -13,3 +13,7 @@ D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\Depe
 D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.pdb
 D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.genruntimeconfig.cache
 D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\ref\DependencyInjectionDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.csproj.AssemblyReference.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\Dependen.9EF1400D.Up2Date

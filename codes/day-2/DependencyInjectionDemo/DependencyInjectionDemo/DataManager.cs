@@ -1,31 +1,31 @@
-﻿namespace DependencyInjectionDemo
+﻿using System.ComponentModel;
+
+namespace DependencyInjectionDemo
 {
-    class DataManager
+    public class DataManager : IDataManager
     {
         int fetchChoice;
-        public DataManager(int choice)
-        {
-            fetchChoice = choice;
-        }
-        public string GetData()
+        Container container;
+        public DataManager() { container = Container.Create(); }
+        public int FetchChoice { set => fetchChoice = value; get => fetchChoice; }
+        public string? GetData()
         {
             string data = string.Empty;
+            IDataReader? reader = null;
             switch (fetchChoice)
             {
                 case 1:
-                    FileDataReader filereader = new FileDataReader();
-                    data = filereader.ReadData();
+                    reader = container.GetService<IDataReader, FileDataReader>();
                     break;
 
                 case 2:
-                    DbDataReader dbreader = new DbDataReader();
-                    data = dbreader.ReadData();
+                    reader = container.GetService<IDataReader, FileDataReader>();
                     break;
 
                 default:
                     break;
             }
-            return data;
+            return reader?.ReadData();
         }
     }
 }

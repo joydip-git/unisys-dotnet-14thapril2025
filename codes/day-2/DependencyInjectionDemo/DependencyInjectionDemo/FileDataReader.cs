@@ -1,10 +1,7 @@
 ﻿namespace DependencyInjectionDemo
 {
-    class FileDataReader
+    public class FileDataReader : IDataReader
     {
-        public string ReadData()
-        {
-            return "file data";
-        }
+        public string ReadData() => "file data";
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace DependencyInjectionDemo
 {
-    class DbDataReader
+    public class DbDataReader : IDataReader
     {
         public string ReadData()
         {

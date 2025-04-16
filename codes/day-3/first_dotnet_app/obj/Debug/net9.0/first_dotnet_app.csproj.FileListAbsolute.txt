@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\bin\Debug\net9.0\first_dotnet_app.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\bin\Debug\net9.0\first_dotnet_app.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\bin\Debug\net9.0\first_dotnet_app.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\bin\Debug\net9.0\first_dotnet_app.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\bin\Debug\net9.0\first_dotnet_app.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\refint\first_dotnet_app.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\first_dotnet_app.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-3\first_dotnet_app\obj\Debug\net9.0\ref\first_dotnet_app.dll

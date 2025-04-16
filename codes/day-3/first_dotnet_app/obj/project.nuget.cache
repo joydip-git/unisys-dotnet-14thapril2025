@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MU6pLZw9+0k=",
+  "success": true,
+  "projectFilePath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\first_dotnet_app\\first_dotnet_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-preview.3.25171.5\\microsoft.extensions.dependencyinjection.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512"
+  ],
+  "logs": []
+}

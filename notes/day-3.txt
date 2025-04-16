@@ -1,2 +1,43 @@
 Dependency Injection:
 -------------------------------
+Tightly coupled code -> loosely coupled code and maintain better cohesion
+
+1. through ctor
+2. through property
+3. through method
+
+Role of interface in DI:
+---------------------------------
+
+
+Dependency Injection in .Net Core
+------------------------------------
+Microsoft.Extensions.DependencyInjection.Abstractions
+	- abstractions (interfaces, abstract classes)
+	- IServiceCollection
+
+Microsoft.Extensions.DependencyInjection => package
+	- implementations (classes)
+	- ServiceCollection
+
+ServiceCollection -> IServiceCollection
+ServiceProvider   -> IServiceProvider
+
+Service Lifetime: Singleton, Scoped and Transient
+
+Command Line Interface Tool: dotnet
+
+adding packages:
+1. using project file and the add the following in <ItemGroup> element
+	<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.0-preview.3.25171.5" />
+
+2. use dotnet cli to add package reference
+project-dir>dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.3.25171.5
+
+3. using Nuget package manager console
+>NuGet\Install-Package Microsoft.Extensions.DependencyInjection -Version 10.0.0-preview.3.25171.5
+
+
+4. using nuget package manager in VS
+
+
