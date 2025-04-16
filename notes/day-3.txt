@@ -52,11 +52,17 @@ IReportServiceLifetime
 	Guid Id {get;}
 	ServiceLifetime Lifetime{get;}
 
-ISingletonService	IScopedService	ITransientService
+ISingletonService	
 ServiceLifetime Lifetime => Singleton
 
-SingletonService	ScopedService	TransientService
-Guid Id => Guid.NewGuid()
+IScopedService	
+ServiceLifetime Lifetime => Scoped
+
+ITransientService
+ServiceLifetime Lifetime => Transient
+
+SingletonService:ISingletonService	ScopedService		TransientService
+Guid Id => Guid.NewGuid()  Guid Id => Guid.NewGuid() Guid Id => Guid.NewGuid()
 
 
 TransientService ss = new TransientService();
@@ -65,7 +71,23 @@ ss.Guid;
 TransientService ss1 = new TransientService();
 ss1.Guid;
 
+interface IOps
+{
+  string GetData();
+  ....
+}
 
+
+class FirstImpl:IOps
+{
+  public string GetData(){//code}
+}
+
+
+class SecondImpl:IOps
+{
+  public string GetData(){//code}
+}
 
 
 
