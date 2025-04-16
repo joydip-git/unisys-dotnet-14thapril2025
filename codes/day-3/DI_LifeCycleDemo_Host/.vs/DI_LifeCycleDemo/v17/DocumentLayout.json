@@ -62,7 +62,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\ITransientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:25:36.552Z"
+              "WhenOpened": "2025-04-16T07:25:36.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +75,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\IScopedService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:24:57.373Z"
+              "WhenOpened": "2025-04-16T07:24:57.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,7 +88,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\ISingletonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:24:26.681Z"
+              "WhenOpened": "2025-04-16T07:24:26.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,7 +101,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\IReportServiceLifetime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:20:53.753Z"
+              "WhenOpened": "2025-04-16T07:20:53.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,7 +127,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\TransientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:17:13.961Z"
+              "WhenOpened": "2025-04-16T07:17:13.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +140,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\ScopedService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:16:52.836Z"
+              "WhenOpened": "2025-04-16T07:16:52.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -145,7 +151,7 @@
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\Program.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAzwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T07:15:28.038Z",
               "EditorCaption": ""
@@ -160,7 +166,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\SingletonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:16:29.591Z"
+              "WhenOpened": "2025-04-16T07:16:29.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,7 +179,8 @@
               "RelativeToolTip": "DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T07:16:00.945Z"
+              "WhenOpened": "2025-04-16T07:16:00.945Z",
+              "EditorCaption": ""
             }
           ]
         }

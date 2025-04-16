@@ -2,7 +2,7 @@ Dependency Injection:
 -------------------------------
 Tightly coupled code -> loosely coupled code and maintain better cohesion
 
-1. through ctor
+1. through ctor (.Net core)
 2. through property
 3. through method
 
@@ -14,40 +14,29 @@ Dependency Injection in .Net Core
 ------------------------------------
 Microsoft.Extensions.DependencyInjection.Abstractions
 	- abstractions (interfaces, abstract classes)
-	- IServiceProvider
-	- IServiceCollection
+		- IServiceProvider
+		- IServiceCollection
 
 Microsoft.Extensions.DependencyInjection => package
 	- implementations (classes)
-	- ServiceProvider => built-in service container
-	- ServiceCollection => the collection where services and their implementations are registered along with mention of lifetime via ServiceDescriptor objects
-	- ServiceDescriptor: describes the service type, implementation type and lifetime of service
+		- ServiceProvider => built-in service container
+		- ServiceCollection => the collection where services and their implementations are registered along with mention of lifetime via 
 
-	Once all services are added into the service collection, you should use BuildServiceProvider() method of IServiceCollection to create the service container (an instance of ServiceProvider)
+ServiceDescriptor: describes the service type, implementation type and lifetime of service
+
+How in .Net Core DI works??
+-----------------------------------------------
+Once all services are added into the service collection, you should use BuildServiceProvider() method of IServiceCollection to create the service container (an instance of ServiceProvider)
 
 ServiceCollection -> IServiceCollection
 ServiceProvider   -> IServiceProvider
 
+
 Service Lifetime: Singleton, Scoped and Transient
 
-Command Line Interface Tool: dotnet
 
-adding packages:
-1. using project file and the add the following in <ItemGroup> element
-	<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.4" />
-
-2. use dotnet cli to add package reference
-project-dir>dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.3.25171.5
-
-3. using Nuget package manager console
->NuGet\Install-Package Microsoft.Extensions.DependencyInjection -Version 10.0.0-preview.3.25171.5
-
-
-4. using nuget package manager in VS
-
-
-
-
+about the DI application:
+------------------------------------
 IReportServiceLifetime
 	Guid Id {get;}
 	ServiceLifetime Lifetime{get;}
@@ -91,25 +80,73 @@ class SecondImpl:IOps
   public string GetData(){//code}
 }
 
-
-
-Dependency Injection
-Logging
-Configuration => 
-App Shutdown
-
-
-basic app => console app
-
+Using Generic Host:
+---------------------------------------
 Host => an object that manages and encapsulates app's resources and lifetime functionality
 	- DI
 	- Logging
 	- Config
 	- App graceful shutdown
 	-....
-	
-HostBuilder()
 
-Generic Host class
-	WebHost
-	...
+Generic Host class: Host
+specific host class: WebHost etc.
+
+Hosting packages:
+	Microsoft.Extensions.Hosting.Abstractions => contains all the abstractions
+	Microsoft.Extensions.Hosting => implementations
+
+
+Builder pattern => 
+
+
+House
+	=> with garage
+	=> with swimming pool
+	=> with garden
+	.......
+class House
+{
+	public House(windows,doors,walls,roof,garage,pool,garden)
+	{
+		
+	}
+}
+
+
+House myHouse = new House(4,2,4,1,null,null,...);
+
+House
+	HouseWithGarden:House
+		HouseWithSwimmingPool:HouseWithGarden
+			HouseWithGarage:HouseWithSwimmingPool
+				HouseWithSomethingExtra:HouseWithGarage
+
+
+Builder Pattern
+
+SimpleHouseBuilder
+	BuildWalls()
+	BuildWalls()
+	BuildWalls()
+	BuildWalls()
+	BuildWalls()
+
+LuxuryHouseBuilder
+
+
+Command Line Interface Tool: dotnet
+-------------------------------------------------
+
+adding packages:
+1. using project file and the add the following in <ItemGroup> element
+	<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.4" />
+
+2. use dotnet cli to add package reference
+project-dir>dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.3.25171.5
+
+3. using Nuget package manager console
+>NuGet\Install-Package Microsoft.Extensions.DependencyInjection -Version 10.0.0-preview.3.25171.5
+
+
+4. using nuget package manager in VS

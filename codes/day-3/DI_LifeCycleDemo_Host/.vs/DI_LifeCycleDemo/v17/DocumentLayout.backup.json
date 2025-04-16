@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\",
+  "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\servicelifetimereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\servicelifetimereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\servicelifetimereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\servicelifetimereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\ireportservicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\ireportservicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\ireportservicelifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\di_lifecycledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo_host\\di_lifecycledemo\\di_lifecycledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\di_lifecycledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -50,15 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ITransientService.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ITransientService.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ITransientService.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\ITransientService.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ITransientService.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ITransientService.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\ITransientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IScopedService.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\IScopedService.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\IScopedService.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\IScopedService.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\IScopedService.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\IScopedService.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\IScopedService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ISingletonService.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ISingletonService.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ISingletonService.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\ISingletonService.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ISingletonService.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ISingletonService.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\ISingletonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IReportServiceLifetime.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\IReportServiceLifetime.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\IReportServiceLifetime.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\IReportServiceLifetime.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\IReportServiceLifetime.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\IReportServiceLifetime.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\IReportServiceLifetime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServiceLifetimeReporter.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ServiceLifetimeReporter.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ServiceLifetimeReporter.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\ServiceLifetimeReporter.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ServiceLifetimeReporter.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ServiceLifetimeReporter.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\ServiceLifetimeReporter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TransientService.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\TransientService.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\TransientService.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\TransientService.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\TransientService.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\TransientService.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\TransientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,9 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ScopedService.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ScopedService.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ScopedService.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\ScopedService.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\ScopedService.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\ScopedService.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\ScopedService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\Program.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\Program.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\Program.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\Program.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\Program.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T07:15:28.038Z",
               "EditorCaption": ""
@@ -160,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SingletonService.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\SingletonService.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\SingletonService.cs",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\SingletonService.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\SingletonService.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\SingletonService.cs",
               "RelativeToolTip": "DI_LifeCycleDemo\\SingletonService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,13 +173,14 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DI_LifeCycleDemo.csproj",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
               "RelativeDocumentMoniker": "DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
-              "RelativeToolTip": "DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj*",
+              "RelativeToolTip": "DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T07:16:00.945Z"
+              "WhenOpened": "2025-04-16T07:16:00.945Z",
+              "EditorCaption": ""
             }
           ]
         }
