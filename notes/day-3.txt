@@ -66,6 +66,8 @@ Guid Id => Guid.NewGuid()  Guid Id => Guid.NewGuid() Guid Id => Guid.NewGuid()
 
 
 TransientService ss = new TransientService();
+
+
 ss.Guid;
 
 TransientService ss1 = new TransientService();
@@ -91,3 +93,23 @@ class SecondImpl:IOps
 
 
 
+Dependency Injection
+Logging
+Configuration => 
+App Shutdown
+
+
+basic app => console app
+
+Host => an object that manages and encapsulates app's resources and lifetime functionality
+	- DI
+	- Logging
+	- Config
+	- App graceful shutdown
+	-....
+	
+HostBuilder()
+
+Generic Host class
+	WebHost
+	...

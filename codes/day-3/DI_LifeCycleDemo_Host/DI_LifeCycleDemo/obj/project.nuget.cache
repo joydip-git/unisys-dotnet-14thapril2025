@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lH9Mjr6Pbc8=",
+  "success": true,
+  "projectFilePath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo_Host\\DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
