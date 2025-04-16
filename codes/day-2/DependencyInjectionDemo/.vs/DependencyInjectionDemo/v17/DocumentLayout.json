@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\idatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\updateddatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\updateddatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +30,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IDataManager.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\IDataManager.cs",
               "RelativeDocumentMoniker": "DependencyInjectionDemo\\IDataManager.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\IDataManager.cs",
               "RelativeToolTip": "DependencyInjectionDemo\\IDataManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T06:24:34.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Container.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\Container.cs",
               "RelativeDocumentMoniker": "DependencyInjectionDemo\\Container.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\Container.cs",
               "RelativeToolTip": "DependencyInjectionDemo\\Container.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T06:10:34.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdatedDataManager.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\UpdatedDataManager.cs",
               "RelativeDocumentMoniker": "DependencyInjectionDemo\\UpdatedDataManager.cs",
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "DependencyInjectionDemo\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\Program.cs",
               "RelativeToolTip": "DependencyInjectionDemo\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAzwC8AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAzwDYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T11:17:15.964Z",
               "EditorCaption": ""

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\di_lifecycledemo\\di_lifecycledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC81D70B-A5B7-4EFD-B285-C7D0A4F59CEE}|DI_LifeCycleDemo\\DI_LifeCycleDemo.csproj|solutionrelative:di_lifecycledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DI_LifeCycleDemo\\Program.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-3\\DI_LifeCycleDemo\\DI_LifeCycleDemo\\Program.cs",
+              "RelativeToolTip": "DI_LifeCycleDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:15:28.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,11 +14,16 @@ Dependency Injection in .Net Core
 ------------------------------------
 Microsoft.Extensions.DependencyInjection.Abstractions
 	- abstractions (interfaces, abstract classes)
+	- IServiceProvider
 	- IServiceCollection
 
 Microsoft.Extensions.DependencyInjection => package
 	- implementations (classes)
-	- ServiceCollection
+	- ServiceProvider => built-in service container
+	- ServiceCollection => the collection where services and their implementations are registered along with mention of lifetime via ServiceDescriptor objects
+	- ServiceDescriptor: describes the service type, implementation type and lifetime of service
+
+	Once all services are added into the service collection, you should use BuildServiceProvider() method of IServiceCollection to create the service container (an instance of ServiceProvider)
 
 ServiceCollection -> IServiceCollection
 ServiceProvider   -> IServiceProvider
@@ -29,7 +34,7 @@ Command Line Interface Tool: dotnet
 
 adding packages:
 1. using project file and the add the following in <ItemGroup> element
-	<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.0-preview.3.25171.5" />
+	<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.4" />
 
 2. use dotnet cli to add package reference
 project-dir>dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.3.25171.5
@@ -39,5 +44,28 @@ project-dir>dotnet add package Microsoft.Extensions.DependencyInjection --versio
 
 
 4. using nuget package manager in VS
+
+
+
+
+IReportServiceLifetime
+	Guid Id {get;}
+	ServiceLifetime Lifetime{get;}
+
+ISingletonService	IScopedService	ITransientService
+ServiceLifetime Lifetime => Singleton
+
+SingletonService	ScopedService	TransientService
+Guid Id => Guid.NewGuid()
+
+
+TransientService ss = new TransientService();
+ss.Guid;
+
+TransientService ss1 = new TransientService();
+ss1.Guid;
+
+
+
 
 
