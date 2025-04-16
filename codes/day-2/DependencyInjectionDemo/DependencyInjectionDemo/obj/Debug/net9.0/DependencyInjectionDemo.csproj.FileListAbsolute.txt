@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\DependencyInjectionDemo.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\DependencyInjectionDemo.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\DependencyInjectionDemo.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\DependencyInjectionDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net9.0\DependencyInjectionDemo.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\refint\DependencyInjectionDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\DependencyInjectionDemo.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-2\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net9.0\ref\DependencyInjectionDemo.dll

@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\filedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\filedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\dependencyinjectiondemo\\dependencyinjectiondemo\\dbdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F2F999-61C5-4667-AFC0-DDC606326305}|DependencyInjectionDemo\\DependencyInjectionDemo.csproj|solutionrelative:dependencyinjectiondemo\\dbdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbDataReader.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\DbDataReader.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionDemo\\DbDataReader.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\DbDataReader.cs",
+              "RelativeToolTip": "DependencyInjectionDemo\\DbDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:14:07.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\DataManager.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionDemo\\DataManager.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\DataManager.cs",
+              "RelativeToolTip": "DependencyInjectionDemo\\DataManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:13:07.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileDataReader.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\FileDataReader.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionDemo\\FileDataReader.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\FileDataReader.cs",
+              "RelativeToolTip": "DependencyInjectionDemo\\FileDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:11:31.146Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "DependencyInjectionDemo\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\DependencyInjectionDemo\\DependencyInjectionDemo\\Program.cs",
               "RelativeToolTip": "DependencyInjectionDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T11:17:15.964Z",
               "EditorCaption": ""
