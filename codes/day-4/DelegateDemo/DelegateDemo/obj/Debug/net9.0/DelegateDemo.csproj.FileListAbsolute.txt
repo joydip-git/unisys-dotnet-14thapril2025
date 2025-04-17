@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\bin\Debug\net9.0\DelegateDemo.exe
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\bin\Debug\net9.0\DelegateDemo.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\bin\Debug\net9.0\DelegateDemo.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\bin\Debug\net9.0\DelegateDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\bin\Debug\net9.0\DelegateDemo.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\refint\DelegateDemo.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\DelegateDemo.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\day-4\DelegateDemo\DelegateDemo\obj\Debug\net9.0\ref\DelegateDemo.dll

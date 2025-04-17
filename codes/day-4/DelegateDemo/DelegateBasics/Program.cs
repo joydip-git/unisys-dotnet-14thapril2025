@@ -31,11 +31,36 @@ namespace DelegateBasics
             //CalDel subDel = new CalDel(calculation.Subtract);
             CalDel subDel = calculation.Subtract;
 
+            //CalDel multiDel = public void Multiply(int a, int b)
+            //{ 
+            //    Console.WriteLine(a + b);
+            //};
+
+            //anonymous method (2.0)
+            //a delegate referring to an anonymous method is known as anonymous delegate
+            CalDel multiDel = delegate (int a, int b)
+            {
+                Console.WriteLine(a * b);
+            };
+
+            //Lambda Expression (3.0) -> expression style anonymous method
+            //Lanbda operator (=>)
+            //CalDel divDel = (int a, int b) => Console.WriteLine(a / b);
+            //CalDel divDel = (a, b) => Console.WriteLine(a / b);
+            //Type inference
+            CalDel divDel = (a, b) =>
+            {
+                if (b == 0)
+                    throw new Exception("b is zero");
+                Console.WriteLine(a / b);
+            };
 
             //addDel(12, 13);
             //subDel.Invoke(12, 3);
             CallMethods(addDel, 12, 13);
             CallMethods(subDel, 12, 3);
+            CallMethods(multiDel, 12, 3);
+            CallMethods(divDel, 12, 3);
         }
         static void CallMethods(CalDel calDel, int m, int n)
         {

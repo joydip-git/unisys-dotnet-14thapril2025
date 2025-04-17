@@ -1,9 +1,9 @@
 ﻿namespace DelegateDemo
 {
     internal class Program
-    {        
+    {
         //filter ONLY even numbers from the list and create a new list with those even numbers
-        static List<int> Filter(List<int> input)
+        static List<int> Filter(List<int> input, TaskDel taskDel)
         {
             //create a new empty list
             //List<int> output = new List<int>();
@@ -15,7 +15,7 @@
 
             foreach (var item in input)
             {
-                if (item % 2 == 0)
+                if (taskDel(item))
                     output.Add(item);
             }
 
@@ -31,7 +31,10 @@
             List<string> names = ["anil", "sunil", "joydip"];
 
             //call the Filter function and pass this list, which will return the new list containing only even numbers
-            var result = Filter(numbers);
+            //TaskDel logic = Logic.IsEven;
+            TaskDel logic = new Logic().IsOdd;
+            //TaskDel logic = lambda for greater than
+            var result = Filter(numbers, logic);
             //display all the even numbers from that list
             foreach (var item in result)
             {

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5DE6968C-0563-4628-AE48-005895B172FB}|DelegateBasics\\DelegateBasics.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-4\\delegatedemo\\delegatebasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DE6968C-0563-4628-AE48-005895B172FB}|DelegateBasics\\DelegateBasics.csproj|solutionrelative:delegatebasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E83FD3-7B4D-4A3E-B2C1-0DAE594435F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-4\\delegatedemo\\delegatedemo\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E83FD3-7B4D-4A3E-B2C1-0DAE594435F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-4\\DelegateDemo\\DelegateDemo\\Logic.cs",
+              "RelativeDocumentMoniker": "DelegateDemo\\Logic.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-4\\DelegateDemo\\DelegateDemo\\Logic.cs",
+              "RelativeToolTip": "DelegateDemo\\Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:45:44.423Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +41,9 @@
               "RelativeDocumentMoniker": "DelegateBasics\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-4\\DelegateDemo\\DelegateBasics\\Program.cs",
               "RelativeToolTip": "DelegateBasics\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAzwCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwD4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T05:32:22.953Z",
+              "WhenOpened": "2025-04-17T06:35:22.802Z",
               "EditorCaption": ""
             }
           ]
