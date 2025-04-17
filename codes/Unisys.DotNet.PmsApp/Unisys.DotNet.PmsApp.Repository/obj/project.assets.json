@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Unisys.DotNet.PmsApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Unisys.DotNet.PmsApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unisys.DotNet.PmsApp.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Unisys.DotNet.PmsApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../Unisys.DotNet.PmsApp.Models/Unisys.DotNet.PmsApp.Models.csproj",
+      "msbuildProject": "../Unisys.DotNet.PmsApp.Models/Unisys.DotNet.PmsApp.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Unisys.DotNet.PmsApp.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\joydip\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
+      "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
       "projectName": "Unisys.DotNet.PmsApp.Repository",
-      "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
+      "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
       "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-      "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-2\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\obj\\",
+      "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -40,7 +59,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj": {
+              "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

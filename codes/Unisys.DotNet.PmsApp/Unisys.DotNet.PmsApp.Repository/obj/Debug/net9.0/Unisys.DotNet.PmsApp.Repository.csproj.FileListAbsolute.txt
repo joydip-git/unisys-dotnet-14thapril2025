@@ -1,0 +1,6 @@
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Repository\obj\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.csproj.AssemblyReference.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Repository\obj\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Repository\obj\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Repository\obj\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Repository\obj\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Repository\obj\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.sourcelink.json

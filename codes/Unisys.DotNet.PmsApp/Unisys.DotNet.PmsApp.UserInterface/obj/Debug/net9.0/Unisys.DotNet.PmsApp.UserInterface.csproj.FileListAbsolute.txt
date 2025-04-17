@@ -1,0 +1,15 @@
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.exe
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.runtimeconfig.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\bin\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\refint\Unisys.DotNet.PmsApp.UserInterface.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\Unisys.DotNet.PmsApp.UserInterface.genruntimeconfig.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.UserInterface\obj\Debug\net9.0\ref\Unisys.DotNet.PmsApp.UserInterface.dll

@@ -34,3 +34,34 @@ Presentation Layer
 
 Presentation Layer => executable app
 Business, DAL, Models and repository => libraries
+
+
+
+products
+id	name	price
+-------------------------	
+1	dell    NULL
+
+create table products(
+name varchar(50) NOT NULL,
+price decimal(18,2)
+)
+
+Nullable<decimal> price = null;
+
+Product    Category    Customer    Order etc.
+
+		IDao<T>
+		Add(T p);
+
+IProductDao:IDao
+
+
+ProductDao:IProductDao CategoryDao CustomerDao OrderDao
+
+
+Microsoft.Extensions.DependencyInjection.Abstraction
+Microsoft.Extensions.DependencyInjection
+
+
+

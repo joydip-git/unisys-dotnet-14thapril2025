@@ -59,7 +59,15 @@ class CalDel: MuticastDelegate //:Delegate:Object
 	}
 }
 
+callback mechanism => passing a method to another method from where the former method will be called back
+Event Handling
+LINQ
+Threading
+Builder Pattern...
 
+callback mechanism invloves passing reference of a method
+in C# we achieve that by using delegate
+delegate holds reference to method and using the delegate you can invoke the method. delegate can be passed from one method to another as an argument.
 
 
 

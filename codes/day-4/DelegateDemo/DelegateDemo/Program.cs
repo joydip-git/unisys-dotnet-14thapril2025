@@ -40,26 +40,6 @@
             {
                 Console.WriteLine(item);
             }
-
-            //a=>explicitly typed local variable
-            //int a = 10;
-
-            //type inferenece (determining the data type of the variable from the assigned value)
-            //x => implicitly typed local variable (3.0)
-            var x = 10;
-            Console.WriteLine(x);
-
-            //explcitly typed array local variable
-            //int[] values = new int[] { 1, 2, 3, 4 };
-            //int[] values = [1, 2, 3, 4];
-
-            //collection-initializer syntax (3.0)
-            //values => implcitly typed array local variable
-            var values = new[] { 1, 2, 3, 4 };
-            var list1 = new List<int> { 1, 2, 3, 4 };
-            //new syntax for collection-initializer
-            var list = new List<int>[1, 2, 3, 4];
-
         }
     }
 }

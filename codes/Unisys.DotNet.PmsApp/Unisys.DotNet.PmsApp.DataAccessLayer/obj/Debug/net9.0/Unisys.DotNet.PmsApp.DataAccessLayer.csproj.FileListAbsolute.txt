@@ -1,0 +1,14 @@
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.xml
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\refint\Unisys.DotNet.PmsApp.DataAccessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.xml
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\ref\Unisys.DotNet.PmsApp.DataAccessLayer.dll
