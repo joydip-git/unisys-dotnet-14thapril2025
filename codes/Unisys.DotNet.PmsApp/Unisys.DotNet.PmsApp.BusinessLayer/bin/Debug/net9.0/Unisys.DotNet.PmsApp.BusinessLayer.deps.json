@@ -7,14 +7,64 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Unisys.DotNet.PmsApp.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "Unisys.DotNet.PmsApp.DataAccessLayer": "1.0.0",
+          "Unisys.DotNet.PmsApp.Models": "1.0.0"
+        },
         "runtime": {
           "Unisys.DotNet.PmsApp.BusinessLayer.dll": {}
+        }
+      },
+      "Unisys.DotNet.PmsApp.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "Unisys.DotNet.PmsApp.Models": "1.0.0",
+          "Unisys.DotNet.PmsApp.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Unisys.DotNet.PmsApp.DataAccessLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unisys.DotNet.PmsApp.Models/1.0.0": {
+        "runtime": {
+          "Unisys.DotNet.PmsApp.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unisys.DotNet.PmsApp.Repository/1.0.0": {
+        "dependencies": {
+          "Unisys.DotNet.PmsApp.Models": "1.0.0"
+        },
+        "runtime": {
+          "Unisys.DotNet.PmsApp.Repository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Unisys.DotNet.PmsApp.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unisys.DotNet.PmsApp.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unisys.DotNet.PmsApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unisys.DotNet.PmsApp.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

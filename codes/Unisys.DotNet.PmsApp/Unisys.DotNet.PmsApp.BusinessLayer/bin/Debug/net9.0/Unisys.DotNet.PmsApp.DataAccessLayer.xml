@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Unisys.DotNet.PmsApp.DataAccessLayer</name>
+    </assembly>
+    <members>
+        <member name="T:Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions.IDaoContract`2">
+            <summary>
+            contract containing common methods for every dao
+            </summary>
+            <typeparam name="T">
+            T represents type used by this dao and it should be a reference type
+            </typeparam>
+            <typeparam name="TKey">
+            TKey reoresents the data type of the unique identifier of the record type (T)
+            </typeparam>
+        </member>
+        <member name="M:Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions.IDaoContract`2.GetAll">
+            <summary>
+            method to return all records
+            </summary>
+            <returns>
+            collection of records of type T
+            </returns>
+        </member>
+        <member name="M:Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions.IDaoContract`2.Get(`1)">
+            <summary>
+            method to fetch a single record for a given id
+            </summary>
+            <param name="uniqueId">
+            unique id of the record to fetch
+            </param>
+            <returns>
+            the record or null in case the record is not found
+            </returns>
+        </member>
+        <member name="M:Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions.IDaoContract`2.Insert(`0)">
+            <summary>
+            method to add a new record
+            </summary>
+            <param name="entity">
+            the object/record to add
+            </param>
+            <returns>
+            true if successfully added otherwise false
+            </returns>
+        </member>
+        <member name="M:Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions.IDaoContract`2.Update(`1,`0)">
+            <summary>
+            method to update an existing record for given id value
+            </summary>
+            <param name="updatedEntity">
+            the object/record with updated data
+            </param>
+            <param name="uniqueId">
+            unique id of the record to update
+            </param>
+            <returns>
+            true if successfully updated otherwise false
+            </returns>
+        </member>
+        <member name="M:Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions.IDaoContract`2.Delete(`1)">
+            <summary>
+            method to delete a single record for a given id
+            </summary>
+            <param name="uniqueId">
+            unique id of the record to delete
+            </param>
+            <returns>
+            true if successfully deleted otherwise false
+            </returns>
+        </member>
+    </members>
+</doc>

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Unisys.DotNet.PmsApp.DataAccessLayer\Unisys.DotNet.PmsApp.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Unisys.DotNet.PmsApp.Models\Unisys.DotNet.PmsApp.Models.csproj" />
+  </ItemGroup>
+
 </Project>
