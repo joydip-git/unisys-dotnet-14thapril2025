@@ -12,7 +12,8 @@
     <Folder Include="Implementations\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="../Unisys.DotNet.PmsApp.Models/Unisys.DotNet.PmsApp.Models.csproj"></ProjectReference>
+    <ProjectReference Include="..\Unisys.DotNet.PmsApp.Models/Unisys.DotNet.PmsApp.Models.csproj"></ProjectReference>
+    <ProjectReference Include="..\Unisys.DotNet.PmsApp.Repository\Unisys.DotNet.PmsApp.Repository.csproj" />
   </ItemGroup>
 
 </Project>

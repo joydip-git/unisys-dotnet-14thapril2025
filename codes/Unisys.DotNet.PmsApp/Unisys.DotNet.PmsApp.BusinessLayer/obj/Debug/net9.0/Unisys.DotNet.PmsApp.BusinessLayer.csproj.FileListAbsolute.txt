@@ -1,0 +1,12 @@
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\refint\Unisys.DotNet.PmsApp.BusinessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.BusinessLayer.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.BusinessLayer\obj\Debug\net9.0\ref\Unisys.DotNet.PmsApp.BusinessLayer.dll

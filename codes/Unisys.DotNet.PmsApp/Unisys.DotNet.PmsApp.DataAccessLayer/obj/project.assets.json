@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Unisys.DotNet.PmsApp.Models.dll": {}
         }
+      },
+      "Unisys.DotNet.PmsApp.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Unisys.DotNet.PmsApp.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unisys.DotNet.PmsApp.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unisys.DotNet.PmsApp.Repository.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../Unisys.DotNet.PmsApp.Models/Unisys.DotNet.PmsApp.Models.csproj",
       "msbuildProject": "../Unisys.DotNet.PmsApp.Models/Unisys.DotNet.PmsApp.Models.csproj"
+    },
+    "Unisys.DotNet.PmsApp.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Unisys.DotNet.PmsApp.Repository/Unisys.DotNet.PmsApp.Repository.csproj",
+      "msbuildProject": "../Unisys.DotNet.PmsApp.Repository/Unisys.DotNet.PmsApp.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Unisys.DotNet.PmsApp.Models >= 1.0.0"
+      "Unisys.DotNet.PmsApp.Models >= 1.0.0",
+      "Unisys.DotNet.PmsApp.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -62,6 +81,9 @@
           "projectReferences": {
             "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj": {
               "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj"
+            },
+            "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj": {
+              "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj"
             }
           }
         }

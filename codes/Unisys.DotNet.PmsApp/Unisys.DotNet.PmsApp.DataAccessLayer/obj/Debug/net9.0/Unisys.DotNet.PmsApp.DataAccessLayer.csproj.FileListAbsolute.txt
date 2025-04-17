@@ -12,3 +12,9 @@ D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet
 D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.xml
 D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.pdb
 D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\ref\Unisys.DotNet.PmsApp.DataAccessLayer.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.dll
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.Models.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\bin\Debug\net9.0\Unisys.DotNet.PmsApp.Repository.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.DotNet.PmsApp.DataAccessLayer.csproj.AssemblyReference.cache
+D:\training\unisys-dotnet-14thapril2025\codes\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.DataAccessLayer\obj\Debug\net9.0\Unisys.D.A4769FB5.Up2Date
