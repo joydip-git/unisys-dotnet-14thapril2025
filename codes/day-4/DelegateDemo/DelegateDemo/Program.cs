@@ -1,22 +1,62 @@
 ﻿namespace DelegateDemo
 {
     internal class Program
-    {
+    {        
         //filter ONLY even numbers from the list and create a new list with those even numbers
-        static void Filter()
+        static List<int> Filter(List<int> input)
         {
             //create a new empty list
+            //List<int> output = new List<int>();
+            List<int> output = [];
+
             //iterate through the input list using foreach loop
             //check whether the number is even or not
             //if even, add the same into the empty list
 
+            foreach (var item in input)
+            {
+                if (item % 2 == 0)
+                    output.Add(item);
+            }
+
             //return the list containing even numbers
+            return output;
         }
         static void Main()
         {
-             //create a list containing numbers from 0 ->9
-             //call the filter function and pass this list, which will return the new list containing only even numbers
-             //display all the even numbers from that list
+            //source of data
+            //create a list containing numbers from 0 ->9
+            //List<int> numbers = new List<int> { 1, 3, 4, 2, 7, 5, 0, 6, 9, 8 };
+            List<int> numbers = [1, 3, 4, 2, 7, 5, 0, 6, 9, 8];
+            List<string> names = ["anil", "sunil", "joydip"];
+
+            //call the Filter function and pass this list, which will return the new list containing only even numbers
+            var result = Filter(numbers);
+            //display all the even numbers from that list
+            foreach (var item in result)
+            {
+                Console.WriteLine(item);
+            }
+
+            //a=>explicitly typed local variable
+            //int a = 10;
+
+            //type inferenece (determining the data type of the variable from the assigned value)
+            //x => implicitly typed local variable (3.0)
+            var x = 10;
+            Console.WriteLine(x);
+
+            //explcitly typed array local variable
+            //int[] values = new int[] { 1, 2, 3, 4 };
+            //int[] values = [1, 2, 3, 4];
+
+            //collection-initializer syntax (3.0)
+            //values => implcitly typed array local variable
+            var values = new[] { 1, 2, 3, 4 };
+            var list1 = new List<int> { 1, 2, 3, 4 };
+            //new syntax for collection-initializer
+            var list = new List<int>[1, 2, 3, 4];
+
         }
     }
 }

@@ -1,2 +1,65 @@
-Delegates:
-------------------
+Issues with the filter app:
+---------------------------------
+1. depending on changing requirement (such as filter odd numbers, filter numbers greater than 5 etc.), the main logic insie the Filter() method has to be changed over and again
+	solution: decouple the logic from the Filter function and create another function with that logic and then pass the "another" function as an argument to the Filter function
+	concept: delegate
+	steps:
+	1. create a method (preferrably in a separate class) with that logic
+	2. create a delegate, as such, that can be used to store the reference of it
+	3. then create an instance of that delegate to store the reference of that method
+	4. pass that delegate object reference to the filter method as an argument
+	5. call the delegate from if(...) loop
+
+
+2. the Filter method is strictly typed, hence currently works with only "int" data typed List, where as in order to filter different other types of List (such as, string, user-defined types etc.), you have to create many overloaded version
+	create a generic method
+
+given any value x of type int, decide whether it is even or not
+
+public bool IsEven(int x) => x % 2 == 0;
+
+Delegate => reference to method =>
+
+
+	number of inputs 	=> 2
+	input type & order 	=> int and int
+	return value 	 	=> void
+
+//1. declare delegate
+//2. use delegate to store reference of the method
+//3. invoke delegate to invoke the referred methods
+
+
+delegate int CalDel(int a, int b);
+
+CalDel addDel = new CalDel(Calculation.Add)
+Calculation calc = new();
+CalDel subDel = new CalDel(calc.Subtract)
+
+class CalDel: MuticastDelegate //:Delegate:Object
+{
+	private object _target;
+	private MethodInfo _method;
+
+	public Object Target => _target;
+	public MethodInfo Method => _method;
+
+	public CalDel(object _target, MethodInfo _method)
+	{
+		this._target = _target;
+		this._method = _method;
+	}
+	
+	public int Invoke(int a, int b)
+	{
+		if(_target == null)
+	          return _method.Invoke(null,new object[]{a,b});
+		else
+		  return _method(_target,[a,b]);
+	}
+}
+
+
+
+
+
