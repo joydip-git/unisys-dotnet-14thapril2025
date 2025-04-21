@@ -1,0 +1,12 @@
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\bin\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.deps.json
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\bin\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.dll
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\bin\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.AssemblyInfoInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.AssemblyInfo.cs
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.dll
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\refint\Unisys.DotNet.PmsApp.ModelsCore.dll
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\Unisys.DotNet.PmsApp.ModelsCore.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.ModelsCore\obj\Debug\net9.0\ref\Unisys.DotNet.PmsApp.ModelsCore.dll

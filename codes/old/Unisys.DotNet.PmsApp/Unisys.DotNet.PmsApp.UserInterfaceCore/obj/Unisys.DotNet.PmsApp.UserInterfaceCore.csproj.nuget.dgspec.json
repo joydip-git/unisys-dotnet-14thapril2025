@@ -1,0 +1,440 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\Unisys.DotNet.PmsApp.UserInterfaceCore.csproj": {}
+  },
+  "projects": {
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\Unisys.DotNet.PmsApp.BusinessLayerCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\Unisys.DotNet.PmsApp.BusinessLayerCore.csproj",
+        "projectName": "Unisys.DotNet.PmsApp.BusinessLayerCore",
+        "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\Unisys.DotNet.PmsApp.BusinessLayerCore.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayerCore\\Unisys.DotNet.PmsApp.DataAccessLayerCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayerCore\\Unisys.DotNet.PmsApp.DataAccessLayerCore.csproj"
+              },
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayerCore\\Unisys.DotNet.PmsApp.DataAccessLayerCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayerCore\\Unisys.DotNet.PmsApp.DataAccessLayerCore.csproj",
+        "projectName": "Unisys.DotNet.PmsApp.DataAccessLayerCore",
+        "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayerCore\\Unisys.DotNet.PmsApp.DataAccessLayerCore.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayerCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj"
+              },
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.RepositoryCore\\Unisys.DotNet.PmsApp.RepositoryCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.RepositoryCore\\Unisys.DotNet.PmsApp.RepositoryCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+        "projectName": "Unisys.DotNet.PmsApp.IoC",
+        "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj",
+        "projectName": "Unisys.DotNet.PmsApp.ModelsCore",
+        "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.RepositoryCore\\Unisys.DotNet.PmsApp.RepositoryCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.RepositoryCore\\Unisys.DotNet.PmsApp.RepositoryCore.csproj",
+        "projectName": "Unisys.DotNet.PmsApp.RepositoryCore",
+        "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.RepositoryCore\\Unisys.DotNet.PmsApp.RepositoryCore.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.RepositoryCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\Unisys.DotNet.PmsApp.UserInterfaceCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\Unisys.DotNet.PmsApp.UserInterfaceCore.csproj",
+        "projectName": "Unisys.DotNet.PmsApp.UserInterfaceCore",
+        "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\Unisys.DotNet.PmsApp.UserInterfaceCore.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\Unisys.DotNet.PmsApp.BusinessLayerCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\Unisys.DotNet.PmsApp.BusinessLayerCore.csproj"
+              },
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj"
+              },
+              "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj": {
+                "projectPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.ModelsCore\\Unisys.DotNet.PmsApp.ModelsCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

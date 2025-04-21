@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unisys.DotNet.PmsApp.UserInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e44f981d93546f838979c623676776dbadddd6f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b0d48fcdf0286d7f409781a84f5f99501a682d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unisys.DotNet.PmsApp.UserInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unisys.DotNet.PmsApp.UserInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

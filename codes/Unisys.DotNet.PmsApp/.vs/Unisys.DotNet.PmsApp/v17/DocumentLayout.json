@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.userinterface\\root-file-wthout-tls.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterface\\root-file-wthout-tls.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2170E0A-6718-4AD6-95E0-F7E5A4895E4A}|Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.dataaccesslayer\\implementations\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2170E0A-6718-4AD6-95E0-F7E5A4895E4A}|Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj|solutionrelative:unisys.dotnet.pmsapp.dataaccesslayer\\implementations\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF84843-B057-414E-BB41-368597420330}|Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF84843-B057-414E-BB41-368597420330}|Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj|solutionrelative:unisys.dotnet.pmsapp.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9760780A-E2A6-4DCC-88C2-DD89A9CE334C}|Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9760780A-E2A6-4DCC-88C2-DD89A9CE334C}|Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj|solutionrelative:unisys.dotnet.pmsapp.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E54BF8A9-62DC-4BD8-BE7E-E589C7579D3D}|Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.businesslayer\\implementations\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E54BF8A9-62DC-4BD8-BE7E-E589C7579D3D}|Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj|solutionrelative:unisys.dotnet.pmsapp.businesslayer\\implementations\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.userinterface\\unisys.dotnet.pmsapp.userinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterface\\unisys.dotnet.pmsapp.userinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.userinterface\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterface\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +46,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Root-file-wthout-tls.txt",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
-              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
-              "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
-              "ViewState": "AgIAADAAAAAAAAAAAAAzwDkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-21T04:38:56.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductBo.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
               "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
               "RelativeToolTip": "Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:34:15.735Z"
+              "WhenOpened": "2025-04-21T11:28:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Unisys.DotNet.PmsApp.UserInterface",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T11:24:51.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\appsettings.json",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterface\\appsettings.json",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\appsettings.json",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterface\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T11:24:28.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +91,48 @@
               "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterface\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Program.cs",
               "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:15:08.96Z",
+              "WhenOpened": "2025-04-21T11:22:32.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:21:25.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.Models\\Product.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Models\\Product.cs",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.Models\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:19:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:19:27.288Z",
               "EditorCaption": ""
             }
           ]

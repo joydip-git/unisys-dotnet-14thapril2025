@@ -1,11 +1,12 @@
-﻿using Unisys.DotNet.PmsApp.BusinessLayer.Abstractions;
+﻿using Microsoft.Extensions.Logging;
+using Unisys.DotNet.PmsApp.BusinessLayer.Abstractions;
 using Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions;
 using Unisys.DotNet.PmsApp.Models;
 
 namespace Unisys.DotNet.PmsApp.BusinessLayer.Implementations
 {
     //primary constructor: used only when you have one ctor with args to assign value to data members
-    public class ProductBo(IDaoContract<Product, int> dao) : IBoContract<Product, int>
+    public class ProductBo(IDaoContract<Product, int> dao, ILogger<ProductBo> logger) : IBoContract<Product, int>
     {
         //private readonly IDaoContract<Product, int> dao;
 
@@ -20,6 +21,7 @@ namespace Unisys.DotNet.PmsApp.BusinessLayer.Implementations
         {
             try
             {
+                logger.LogInformation(key.ToString());
                 if (key == 0)
                     throw new Exception("the id can't be zero");
 
@@ -29,8 +31,9 @@ namespace Unisys.DotNet.PmsApp.BusinessLayer.Implementations
                 else
                     return record;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                logger.LogError(ex.Message);
                 throw;
             }
         }
@@ -40,6 +43,7 @@ namespace Unisys.DotNet.PmsApp.BusinessLayer.Implementations
             try
             {
                 var records = dao.GetAll();
+                records.ToList().ForEach(item => logger.LogInformation(item.Name));
                 if (!records.Any())
                     throw new Exception("no record found...");
 

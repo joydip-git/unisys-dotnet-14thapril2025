@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K/Tth0u1PtY=",
+  "success": true,
+  "projectFilePath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayerCore\\Unisys.DotNet.PmsApp.BusinessLayerCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

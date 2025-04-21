@@ -20,4 +20,10 @@
     <ProjectReference Include="..\Unisys.DotNet.PmsApp.Models\Unisys.DotNet.PmsApp.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

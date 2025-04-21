@@ -1,0 +1,614 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": true
+    },
+    "targetId": "",
+    "targetDisplayName": ".NET 9.0"
+  },
+  "analysisStartTime": "2025-04-21T11:58:16.3506471Z",
+  "analysisEndTime": "2025-04-21T11:58:25.6748326Z",
+  "privacyModeHelpUrl": "https://go.microsoft.com/fwlink/?linkid=2270980",
+  "stats": {
+    "summary": {
+      "projects": 6,
+      "issues": 4,
+      "incidents": 22,
+      "effort": 22
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 12,
+        "Optional": 8,
+        "Potential": 2,
+        "Information": 0
+      },
+      "category": {
+        "Project": 12,
+        "NuGet": 2,
+        "Api": 8
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "da113b80-0b2a-49eb-8d71-3f5dd16537dd",
+          "ruleId": "Project.0001",
+          "projectPath": "Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj"
+          }
+        },
+        {
+          "incidentId": "6b03dd0d-5520-47f8-9ab1-3cf31533acef",
+          "ruleId": "Project.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+              "protected": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+            "protectedSnippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "e740f2c2-531e-47e4-b7a9-37a84ba6ea65",
+          "ruleId": "Project.0001",
+          "projectPath": "Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj"
+          }
+        },
+        {
+          "incidentId": "a5cf7896-bef8-4995-8062-e0fd85530d5a",
+          "ruleId": "Project.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+              "protected": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.DataAccessLayer\\Unisys.DotNet.PmsApp.DataAccessLayer.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+            "protectedSnippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+      "startingProject": true,
+      "issues": 4,
+      "storyPoints": 7,
+      "ruleInstances": [
+        {
+          "incidentId": "72319e40-85d0-4955-b081-714dbe463e4b",
+          "ruleId": "NuGet.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0",
+              "protected": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+            "snippet": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0",
+            "protectedSnippet": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0",
+            "label": "System.Runtime.CompilerServices.Unsafe 6.1.2"
+          }
+        },
+        {
+          "incidentId": "a21be261-d01a-48aa-9f92-9bb452ea9c7b",
+          "ruleId": "Project.0001",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj"
+          }
+        },
+        {
+          "incidentId": "bd2484b1-aeda-424e-aa9b-a1bbeacb635b",
+          "ruleId": "Project.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+              "protected": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+            "protectedSnippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+          }
+        },
+        {
+          "incidentId": "ac2c4d62-ed58-4ac2-ada9-dee45336b55a",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+              "protected": "T:System.Runtime.Serialization.SafeSerializationEventArgs"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+            "protectedSnippet": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "label": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.safeserializationeventargs",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "6a42bb95-d2ed-4c44-bde9-589f4bbfcdf1",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Unity.ResolutionFailedException/ResolutionFailedExceptionSerializationData\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+              "protected": "T:System.Runtime.Serialization.ISafeSerializationData"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "Unity.ResolutionFailedException/ResolutionFailedExceptionSerializationData\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+            "protectedSnippet": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "label": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.isafeserializationdata",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "6271c65d-b8f2-42c2-a2ac-1d2dd997cde4",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+              "protected": "T:System.Runtime.Serialization.SafeSerializationEventArgs"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+            "protectedSnippet": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "label": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.safeserializationeventargs",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "49700639-c686-473f-a8ba-6a40dcd6679c",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.IoC\\Unisys.DotNet.PmsApp.IoC.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Void System.Runtime.Serialization.SafeSerializationEventArgs::AddSerializedState(System.Runtime.Serialization.ISafeSerializationData)\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+              "protected": "T:System.Runtime.Serialization.ISafeSerializationData"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "System.Void System.Runtime.Serialization.SafeSerializationEventArgs::AddSerializedState(System.Runtime.Serialization.ISafeSerializationData)\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+            "protectedSnippet": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "label": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.isafeserializationdata",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "e1035962-44d4-4e6b-a959-147cf8ece4d2",
+          "ruleId": "Project.0001",
+          "projectPath": "Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj"
+          }
+        },
+        {
+          "incidentId": "20721118-10da-4bab-b2ee-54ab10f984ed",
+          "ruleId": "Project.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+              "protected": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.Models\\Unisys.DotNet.PmsApp.Models.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+            "protectedSnippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "8f50ca45-23ed-4fb9-b759-e9dd51d606d3",
+          "ruleId": "Project.0001",
+          "projectPath": "Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj"
+          }
+        },
+        {
+          "incidentId": "f1a3a8c4-1dc7-496a-89fd-de13418fd7e6",
+          "ruleId": "Project.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+              "protected": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.Repository\\Unisys.DotNet.PmsApp.Repository.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+            "protectedSnippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+      "startingProject": true,
+      "issues": 4,
+      "storyPoints": 7,
+      "ruleInstances": [
+        {
+          "incidentId": "a2fdf087-7cff-4bbb-ad5c-84feafb559b2",
+          "ruleId": "NuGet.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0",
+              "protected": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+            "snippet": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0",
+            "protectedSnippet": "System.Runtime.CompilerServices.Unsafe, 6.1.2\n\nRecommendation:\n\nSystem.Runtime.CompilerServices.Unsafe 6.0.0",
+            "label": "System.Runtime.CompilerServices.Unsafe 6.1.2"
+          }
+        },
+        {
+          "incidentId": "62a76d3b-e015-4aeb-9932-70c46edfd2bf",
+          "ruleId": "Project.0001",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj"
+          }
+        },
+        {
+          "incidentId": "3bfc6d07-3d8e-4f39-a604-d03c523f238f",
+          "ruleId": "Project.0002",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+              "protected": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+            },
+            "kind": "File",
+            "path": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0",
+            "protectedSnippet": "Current: .NETFramework,Version=v4.8\nNew: net9.0"
+          }
+        },
+        {
+          "incidentId": "74ef2ed9-a6a4-4ecd-8a8c-a7f059d5e814",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+              "protected": "T:System.Runtime.Serialization.SafeSerializationEventArgs"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+            "protectedSnippet": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "label": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.safeserializationeventargs",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "4d87088e-f09a-4642-b676-0dacadc0ed8f",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "Unity.ResolutionFailedException/ResolutionFailedExceptionSerializationData\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+              "protected": "T:System.Runtime.Serialization.ISafeSerializationData"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "Unity.ResolutionFailedException/ResolutionFailedExceptionSerializationData\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+            "protectedSnippet": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "label": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.isafeserializationdata",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "1a7e052a-a3b2-4664-875d-b20ad401490e",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+              "protected": "T:System.Runtime.Serialization.SafeSerializationEventArgs"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "System.Void Unity.ResolutionFailedException::\u003CRegisterSerializationHandler\u003Eb__9_0(System.Object,System.Runtime.Serialization.SafeSerializationEventArgs)\r\n    -\u003E System.Runtime.Serialization.SafeSerializationEventArgs",
+            "protectedSnippet": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "label": "T:System.Runtime.Serialization.SafeSerializationEventArgs",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.safeserializationeventargs",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        },
+        {
+          "incidentId": "34d46594-5c0c-4ab6-bedb-8410b8cff0ec",
+          "ruleId": "Api.0003",
+          "description": "Formatter-based serialization is obsolete and should not be used.",
+          "projectPath": "Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj",
+          "state": "Active",
+          "location": {
+            "snippetModel": {
+              "unrestricted": "System.Void System.Runtime.Serialization.SafeSerializationEventArgs::AddSerializedState(System.Runtime.Serialization.ISafeSerializationData)\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+              "protected": "T:System.Runtime.Serialization.ISafeSerializationData"
+            },
+            "kind": "Binary",
+            "path": "packages\\Unity.5.11.10\\lib\\net48\\Unity.Abstractions.dll",
+            "snippet": "System.Void System.Runtime.Serialization.SafeSerializationEventArgs::AddSerializedState(System.Runtime.Serialization.ISafeSerializationData)\r\n    -\u003E System.Runtime.Serialization.ISafeSerializationData",
+            "protectedSnippet": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "label": "T:System.Runtime.Serialization.ISafeSerializationData",
+            "properties": {
+              "AssemblyName": "mscorlib",
+              "AssemblyVersion": "4.0.0.0",
+              "AssemblyPublicKeyToken": "b77a5c561934e089"
+            },
+            "links": [
+              {
+                "title": "API documentation",
+                "url": "https://learn.microsoft.com/dotnet/api/system.runtime.serialization.isafeserializationdata",
+                "isCustom": true
+              },
+              {
+                "title": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "url": "https://aka.ms/dotnet-warnings/SYSLIB0050",
+                "isCustom": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "Project.0001": {
+      "id": "Project.0001",
+      "description": "Project file needs to be converted to SDK-style. Modern .NET framework projects require a change in the project file format and use SDK corresponding to project flavor and functionality.",
+      "label": "Project file needs to be converted to SDK-style",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "Project.0002": {
+      "id": "Project.0002",
+      "description": "Project\u0027s target framework(s) needs to be changed to the new target framework that you selected for this upgrade.\n\nDuring upgrade target framework will be adjusted to corresponding platform when applicable. In some cases project would result in multiple target frameworks after the upgrade if it was using features that now have their own platforms in moderrn .NET frameworks (windows, iOS, Android etc).",
+      "label": "Project\u0027s target framework(s) needs to be changed",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227",
+          "isCustom": false
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226",
+          "isCustom": false
+        }
+      ]
+    },
+    "NuGet.0002": {
+      "id": "NuGet.0002",
+      "description": "NuGet package upgrade is recommended for selected target framework.\n\nStandard .NET packages are recommended to have versions matching version of .NET that project targets.\n\nSome other packages also are known to work better for selected target frameworks.",
+      "label": "NuGet package upgrade is recommended",
+      "severity": "Potential",
+      "effort": 1,
+      "links": [
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2262530",
+          "isCustom": false
+        }
+      ]
+    },
+    "Api.0003": {
+      "id": "Api.0003",
+      "description": "API is obsolete.",
+      "label": "API is obsolete",
+      "severity": "Optional",
+      "effort": 1
+    }
+  }
+}

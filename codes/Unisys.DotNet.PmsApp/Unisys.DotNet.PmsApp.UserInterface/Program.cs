@@ -6,9 +6,16 @@ using Unisys.DotNet.PmsApp.Repository;
 using Unisys.DotNet.PmsApp.Models;
 using Unisys.DotNet.PmsApp.BusinessLayer.Abstractions;
 using Unisys.DotNet.PmsApp.BusinessLayer.Implementations;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 
 try
 {
+    //ILogger logger = LoggerFactory
+    //    .Create(options=>options.AddConsole())
+    //    .CreateLogger("info");
+
     HostApplicationBuilder builder = Host.CreateApplicationBuilder(args);
     ConfigureServices(builder);
 
@@ -28,7 +35,10 @@ catch (Exception ex)
 
 static void ConfigureServices(IHostApplicationBuilder builder)
 {
-    builder.Services.AddScoped<ProductRepository>();
+    //builder.Services.AddScoped<ProductRepository>();
+    builder.Services.AddDbContext<ProductRepository>(
+        options => options.UseSqlServer(builder.Configuration.GetConnectionString("UnisysDbConStr")),
+        ServiceLifetime.Scoped);
     builder.Services.AddScoped<IDaoContract<Product, int>, ProductDao>();
     builder.Services.AddScoped<IBoContract<Product, int>, ProductBo>();
 }

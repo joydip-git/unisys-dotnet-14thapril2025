@@ -1,0 +1,12 @@
+migration:
+https://learn.microsoft.com/en-us/dotnet/core/porting/
+
+which techs are invalid:
+https://learn.microsoft.com/en-us/dotnet/core/porting/net-framework-tech-unavailable
+
+
+why no AppDomain in .NET Core:
+https://stackoverflow.com/questions/27266907/no-appdomains-in-net-core-why
+
+use AppDomain in .Net Core:
+https://learn.microsoft.com/en-us/dotnet/api/system.appdomain?view=net-9.0

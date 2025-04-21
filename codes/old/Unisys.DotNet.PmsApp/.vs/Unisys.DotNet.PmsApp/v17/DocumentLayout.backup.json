@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBFD72F-F67D-2B3C-2950-C330AE893000}|Unisys.DotNet.PmsApp.UserInterfaceCore\\Unisys.DotNet.PmsApp.UserInterfaceCore.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.userinterfacecore\\pmsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBFD72F-F67D-2B3C-2950-C330AE893000}|Unisys.DotNet.PmsApp.UserInterfaceCore\\Unisys.DotNet.PmsApp.UserInterfaceCore.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterfacecore\\pmsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PmsUI.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\PmsUI.cs",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterfaceCore\\PmsUI.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\old\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterfaceCore\\PmsUI.cs",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterfaceCore\\PmsUI.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:37:51.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

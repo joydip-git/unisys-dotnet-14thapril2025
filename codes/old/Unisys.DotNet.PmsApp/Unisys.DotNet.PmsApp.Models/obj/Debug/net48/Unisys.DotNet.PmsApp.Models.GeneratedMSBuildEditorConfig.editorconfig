@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Unisys.DotNet.PmsApp.Models
+build_property.ProjectDir = D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

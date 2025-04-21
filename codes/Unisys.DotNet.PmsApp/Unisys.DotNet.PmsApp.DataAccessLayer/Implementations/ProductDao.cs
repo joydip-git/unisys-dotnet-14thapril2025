@@ -1,4 +1,5 @@
-﻿using Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions;
+﻿using Microsoft.Extensions.Logging;
+using Unisys.DotNet.PmsApp.DataAccessLayer.Abstractions;
 using Unisys.DotNet.PmsApp.Models;
 using Unisys.DotNet.PmsApp.Repository;
 
@@ -7,10 +8,12 @@ namespace Unisys.DotNet.PmsApp.DataAccessLayer.Implementations
     public sealed class ProductDao : IDaoContract<Product, int>
     {
         private readonly ProductRepository _productRepository;
+        private readonly ILogger<ProductDao> _logger;
 
-        public ProductDao(ProductRepository productRepository)
+        public ProductDao(ProductRepository productRepository, ILogger<ProductDao> logger)
         {
             _productRepository = productRepository;
+            _logger = logger;
         }
 
         public bool Delete(int uniqueId)
@@ -40,6 +43,7 @@ namespace Unisys.DotNet.PmsApp.DataAccessLayer.Implementations
         {
             try
             {
+                _logger.LogInformation("fetching products");
                 return _productRepository.Products;
             }
             catch (Exception)

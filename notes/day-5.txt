@@ -60,6 +60,42 @@ EF Core with SQL Server
 package: Microsoft.EntityFrameworkCore.SqlServer
 
 
+Migration:
+	.NET Framework => .NET
+
+Portability Analyzer => VS 2017 (Not supported in VS 2022)
+
+
+check your app depdencies
+
+
+tool => .NET Upgrade Assistant
+ASP.NET
+WPF
+WinForm
+class libraries
+console apps
+Xamarin apps
+.NET MAUI
+.NET Native UWP
+Azure Functions
+
+
+upgrade paths:
+.NET Framework => .NET
+.Net Core (<5) => .NET (>=5)
+
+
+how upgrade takes place?
+1. in-place project upgrade: this will upgrade your project(s) directly without making any copies
+2. Side-by-side project upgrade: Copies your project and upgrades the copy. do not change the original project.
+3. side-by-side incremental: it will put a .NET project next to the .NET Framework project. endpoints will be routed through the .NET Project, but the calls will be forwarded to the .NET Framework Project
+
+AppDomain
+On .NET Core, the AppDomain implementation is limited by design and does not provide isolation, unloading, or security boundaries. For .NET Core, there is exactly one AppDomain. Isolation and unloading are provided through AssemblyLoadContext. Security boundaries should be provided by process boundaries and appropriate remoting techniques.
+
+
+
 
 
 

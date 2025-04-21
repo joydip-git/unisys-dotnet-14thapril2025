@@ -1,0 +1,8 @@
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\bin\Debug\net48\Unisys.DotNet.PmsApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\bin\Debug\net48\Unisys.DotNet.PmsApp.Models.pdb
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\net48\Unisys.DotNet.PmsApp.Models.csproj.AssemblyReference.cache
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\net48\Unisys.DotNet.PmsApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\net48\Unisys.DotNet.PmsApp.Models.csproj.CoreCompileInputs.cache
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\net48\Unisys.DotNet.PmsApp.Models.sourcelink.json
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\net48\Unisys.DotNet.PmsApp.Models.dll
+D:\training\unisys-dotnet-14thapril2025\codes\old\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\net48\Unisys.DotNet.PmsApp.Models.pdb

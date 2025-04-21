@@ -1,0 +1,14 @@
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unisys.DotNet.PmsApp.IoC.dll.config
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unisys.DotNet.PmsApp.IoC.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unisys.DotNet.PmsApp.IoC.pdb
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unity.Abstractions.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unity.Container.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unity.Abstractions.pdb
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\bin\Debug\Unity.Container.pdb
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\obj\Debug\Unisys.DotNet.PmsApp.IoC.csproj.AssemblyReference.cache
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\obj\Debug\Unisys.DotNet.PmsApp.IoC.csproj.CoreCompileInputs.cache
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\obj\Debug\Unisys.D.89B14DC5.Up2Date
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\obj\Debug\Unisys.DotNet.PmsApp.IoC.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.IoC\obj\Debug\Unisys.DotNet.PmsApp.IoC.pdb

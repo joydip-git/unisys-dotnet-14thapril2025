@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unisys.DotNet.PmsApp.BusinessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b09acc35d491d67bb6a82065050980f2b45eab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b0d48fcdf0286d7f409781a84f5f99501a682d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unisys.DotNet.PmsApp.BusinessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unisys.DotNet.PmsApp.BusinessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\bin\Debug\Unisys.DotNet.PmsApp.Models.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\bin\Debug\Unisys.DotNet.PmsApp.Models.pdb
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\Unisys.DotNet.PmsApp.Models.csproj.AssemblyReference.cache
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\Unisys.DotNet.PmsApp.Models.csproj.CoreCompileInputs.cache
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\Unisys.DotNet.PmsApp.Models.dll
+D:\training\Unisys.DotNet.PmsApp\Unisys.DotNet.PmsApp.Models\obj\Debug\Unisys.DotNet.PmsApp.Models.pdb
