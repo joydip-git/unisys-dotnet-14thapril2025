@@ -45,3 +45,4 @@ D:\training\unisys-dotnet-14thapril2025\codes\day-5\ConfigurationApp\Configurati
 D:\training\unisys-dotnet-14thapril2025\codes\day-5\ConfigurationApp\ConfigurationWithHosting\obj\Debug\net9.0\ConfigurationWithHosting.pdb
 D:\training\unisys-dotnet-14thapril2025\codes\day-5\ConfigurationApp\ConfigurationWithHosting\obj\Debug\net9.0\ConfigurationWithHosting.genruntimeconfig.cache
 D:\training\unisys-dotnet-14thapril2025\codes\day-5\ConfigurationApp\ConfigurationWithHosting\obj\Debug\net9.0\ref\ConfigurationWithHosting.dll
+D:\training\unisys-dotnet-14thapril2025\codes\day-5\ConfigurationApp\ConfigurationWithHosting\bin\Debug\net9.0\appsettings.json

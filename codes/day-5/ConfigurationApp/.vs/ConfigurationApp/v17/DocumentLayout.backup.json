@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\configurationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|solutionrelative:configurationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\optionspatternapi\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|solutionrelative:optionspatternapi\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\configurationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|solutionrelative:configurationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\optionspatternapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|solutionrelative:optionspatternapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\configurationapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|solutionrelative:configurationapp\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\optionspatternapi\\optionsapi-v1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|solutionrelative:optionspatternapi\\optionsapi-v1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\configurationapp\\configurationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}|ConfigurationApp\\ConfigurationApp.csproj|solutionrelative:configurationapp\\configurationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\optionspatternapi\\optionspatternapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|solutionrelative:optionspatternapi\\optionspatternapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{425D678E-A6E6-481B-BBC9-BE3B60C4F7FB}|ConfigurationWithHosting\\ConfigurationWithHosting.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\configurationwithhosting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{425D678E-A6E6-481B-BBC9-BE3B60C4F7FB}|ConfigurationWithHosting\\ConfigurationWithHosting.csproj|solutionrelative:configurationwithhosting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\optionspatternapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|solutionrelative:optionspatternapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\configurationapp\\optionspatternapi\\unisysdbconstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}|OptionsPatternAPI\\OptionsPatternAPI.csproj|solutionrelative:optionspatternapi\\unisysdbconstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\DatabaseConnection.cs",
-              "RelativeDocumentMoniker": "ConfigurationApp\\DatabaseConnection.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\DatabaseConnection.cs",
-              "RelativeToolTip": "ConfigurationApp\\DatabaseConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:45:58.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfigurationApp.csproj",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\ConfigurationApp.csproj",
-              "RelativeDocumentMoniker": "ConfigurationApp\\ConfigurationApp.csproj",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\ConfigurationApp.csproj",
-              "RelativeToolTip": "ConfigurationApp\\ConfigurationApp.csproj",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwAwAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-21T05:33:05.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\appsettings.json",
-              "RelativeDocumentMoniker": "ConfigurationApp\\appsettings.json",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\appsettings.json",
-              "RelativeToolTip": "ConfigurationApp\\appsettings.json",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T05:22:27.943Z",
+              "Title": "OptionsAPI-V1.txt",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\OptionsAPI-V1.txt",
+              "RelativeDocumentMoniker": "OptionsPatternAPI\\OptionsAPI-V1.txt",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\OptionsAPI-V1.txt",
+              "RelativeToolTip": "OptionsPatternAPI\\OptionsAPI-V1.txt",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-21T07:23:22.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigurationApp\\Program.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationApp\\Program.cs",
-              "RelativeToolTip": "ConfigurationApp\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAABDAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\Repository.cs",
+              "RelativeDocumentMoniker": "OptionsPatternAPI\\Repository.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\Repository.cs",
+              "RelativeToolTip": "OptionsPatternAPI\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:10:46.633Z",
+              "WhenOpened": "2025-04-21T07:01:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OptionsPatternAPI",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\OptionsPatternAPI.csproj",
+              "RelativeDocumentMoniker": "OptionsPatternAPI\\OptionsPatternAPI.csproj",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\OptionsPatternAPI.csproj",
+              "RelativeToolTip": "OptionsPatternAPI\\OptionsPatternAPI.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T06:58:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnisysDbConStr.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\UnisysDbConStr.cs",
+              "RelativeDocumentMoniker": "OptionsPatternAPI\\UnisysDbConStr.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\UnisysDbConStr.cs",
+              "RelativeToolTip": "OptionsPatternAPI\\UnisysDbConStr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:46:56.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationWithHosting\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigurationWithHosting\\Program.cs",
-              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\ConfigurationWithHosting\\Program.cs",
-              "RelativeToolTip": "ConfigurationWithHosting\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAzwBsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:07:15.576Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OptionsPatternAPI\\appsettings.json",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\appsettings.json",
+              "RelativeToolTip": "OptionsPatternAPI\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T06:41:30.649Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OptionsPatternAPI\\Program.cs",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\day-5\\ConfigurationApp\\OptionsPatternAPI\\Program.cs",
+              "RelativeToolTip": "OptionsPatternAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:37:14.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

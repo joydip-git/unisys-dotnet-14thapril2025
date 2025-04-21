@@ -1,0 +1,40 @@
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using OptionsPatternAPI;
+
+Console.WriteLine("Using Options API in configuration...");
+
+HostApplicationBuilder builder = Host.CreateApplicationBuilder();
+
+builder.Configuration.AddJsonFile(@"appsettings.json", false, true);
+
+UnisysDbConStr unisysDbConStr = new UnisysDbConStr();
+builder.Configuration.GetRequiredSection($"ConnectionStrings:{nameof(UnisysDbConStr)}").Bind(unisysDbConStr);
+
+builder.Services.AddSingleton<UnisysDbConStr>(unisysDbConStr);
+builder.Services.AddSingleton<Repository>();
+
+IHost host = builder.Build();
+
+var configurationProvider = host.Services.GetRequiredService<IConfiguration>();
+
+//UnisysDbConStr unisysDbConStr = new UnisysDbConStr();
+//configurationProvider
+//    .GetSection($"ConnectionStrings:{nameof(UnisysDbConStr)}")
+//    .Bind(unisysDbConStr);
+
+//or 
+
+//var unisysDbConStr = configurationProvider
+//    .GetSection($"ConnectionStrings:{nameof(UnisysDbConStr)}")
+//    .Get<UnisysDbConStr>();
+
+//host.Services.GetRequiredService<UnisysDbConStr>();
+var repo = host.Services.GetRequiredService<Repository>();
+repo.GetData();
+
+//Console.WriteLine($"{unisysDbConStr?.Server}");
+
+host.Run();
+host.Dispose();

@@ -15,13 +15,17 @@ configBuilder.AddEnvironmentVariables();
 
 //IConfigurationRoot inherits from IConfiguration
 IConfigurationRoot configuration = configBuilder.Build();
+//reading data from a section in settings file
 var profile = configuration.GetRequiredSection("Environment").GetValue<string>("APP_PROFILE");
-var dbConnection = configuration.GetRequiredSection("Profile").GetRequiredSection("Development").GetValue<DatabaseConnection>("DatabaseConnection");
+
+//Binding a custom object to a configuration section
+var dbConnection = configuration.GetRequiredSection($"Profile:{profile}:{nameof(DatabaseConnection)}").Get<DatabaseConnection>();
 
 if (dbConnection != null)
-    Console.WriteLine(dbConnection.Server);
+    Console.WriteLine(dbConnection?.Database);
 else
     Console.WriteLine("not found...");
 
-    Console.WriteLine($"App Profile: {configuration["Profile"]}");
+//reading from in-memory collection
+Console.WriteLine($"App Profile: {configuration["Profile"]}");
 Console.WriteLine($"App Profile: {profile}");

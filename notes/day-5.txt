@@ -29,7 +29,8 @@ Configuration is read-only and they are designed NOT TO BE WRITABLE
 IConfiguration => top-level abstraction for all configuration providers
 
 
-
+Options Pattern:
+it uses classes to provide strongly typed accessed to a group of related settings.
 
 
 Logging in .NET

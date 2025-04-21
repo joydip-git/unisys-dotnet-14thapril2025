@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationApp", "ConfigurationApp\ConfigurationApp.csproj", "{5DB750A9-8AA4-40F7-8564-1C6FF4015B2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationWithHosting", "ConfigurationWithHosting\ConfigurationWithHosting.csproj", "{425D678E-A6E6-481B-BBC9-BE3B60C4F7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionsPatternAPI", "OptionsPatternAPI\OptionsPatternAPI.csproj", "{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{425D678E-A6E6-481B-BBC9-BE3B60C4F7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{425D678E-A6E6-481B-BBC9-BE3B60C4F7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{425D678E-A6E6-481B-BBC9-BE3B60C4F7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9FF493-7D47-4666-ABF8-B130CB3AF97E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
