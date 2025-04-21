@@ -1,0 +1,20 @@
+﻿//write executbale code at the root of the file
+Console.WriteLine("Welcome to top-level statement....");
+
+//Person person = new Person() { Id = 1, Name = "anil" };
+//Person person = new Person { Id = 1, Name = "anil" };
+Person person = new() { Id = 1, Name = "anil" };
+
+Foo();
+
+//local function (can be static or non-static)
+static void Foo()
+{
+    Console.WriteLine("this is a local function...");
+}
+
+class Person
+{
+    public int Id { get; set; }
+    public string? Name { get; set; }
+}

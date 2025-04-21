@@ -1,0 +1,50 @@
+﻿//top-level statement: allows you to write executable code directly at the root of a file, without any boilerplate code: namespace, Program class and its Main method
+class Program
+{
+    public Program()
+    {
+        Validate("joydip");
+        void Validate(string value)
+        {
+            if (value != null || value == string.Empty)
+                throw new ArgumentException();
+        }
+    }
+    static string Name
+    {
+        set
+        {
+            Call();
+            void Call() { }
+        }
+    }
+    static void Main()
+    {
+        int x = 10;
+        Console.WriteLine("Hello world...." + x);
+        Foo();
+        void Foo()
+        {
+            Console.WriteLine("Foo.....");
+        }
+
+        Action<string> printDel = (name) =>
+        {
+            PrintName();
+            void PrintName()
+            {
+                //Console.WriteLine(name);
+                PrintInfo();
+                void PrintInfo()
+                {
+                    Console.WriteLine(name);
+                }
+            }
+        };
+    }
+    //static void Foo()
+    //{
+    //    Console.WriteLine("Foo.....");
+    //}
+}
+

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.userinterface\\root-file-wthout-tls.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EE5E52-4F7E-4081-BB6F-4BAF0B9E7028}|Unisys.DotNet.PmsApp.UserInterface\\Unisys.DotNet.PmsApp.UserInterface.csproj|solutionrelative:unisys.dotnet.pmsapp.userinterface\\root-file-wthout-tls.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E54BF8A9-62DC-4BD8-BE7E-E589C7579D3D}|Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj|d:\\training\\unisys-dotnet-14thapril2025\\codes\\unisys.dotnet.pmsapp\\unisys.dotnet.pmsapp.businesslayer\\implementations\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E54BF8A9-62DC-4BD8-BE7E-E589C7579D3D}|Unisys.DotNet.PmsApp.BusinessLayer\\Unisys.DotNet.PmsApp.BusinessLayer.csproj|solutionrelative:unisys.dotnet.pmsapp.businesslayer\\implementations\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Root-file-wthout-tls.txt",
+              "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
+              "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
+              "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
+              "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterface\\Root-file-wthout-tls.txt",
+              "ViewState": "AgIAADAAAAAAAAAAAAAzwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-21T04:38:56.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductBo.cs",
               "DocumentMoniker": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
               "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
@@ -30,8 +51,7 @@
               "RelativeToolTip": "Unisys.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:34:15.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:34:15.735Z"
             },
             {
               "$type": "Document",
@@ -41,7 +61,7 @@
               "RelativeDocumentMoniker": "Unisys.DotNet.PmsApp.UserInterface\\Program.cs",
               "ToolTip": "D:\\training\\unisys-dotnet-14thapril2025\\codes\\Unisys.DotNet.PmsApp\\Unisys.DotNet.PmsApp.UserInterface\\Program.cs",
               "RelativeToolTip": "Unisys.DotNet.PmsApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T12:15:08.96Z",
               "EditorCaption": ""

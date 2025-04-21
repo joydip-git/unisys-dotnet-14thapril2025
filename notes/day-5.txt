@@ -1,0 +1,39 @@
+Top-level statement
+local function (static/non-static)
+
+Configuration in .NET
+
+the configuration services in .NET provides several Configuration Providers for different sources of configuration data:
+
+1. settings files, such as appsettings.json file
+2. environment variables
+3. command-line arguments
+4. custom providers
+5. directory files
+6. In-memory .NET objects
+7. 3rd party providers
+8. Azure vault
+9. Azure app config
+
+packages: 
+implementations: 
+	main => Microsoft.Extensions.Configuration
+	specific => Microsoft.Extensions.Configuration.Json
+		 => Microsoft.Extensions.Configuration.EnvironmentVariables
+		 => Microsoft.Extensions.Configuration.Binder
+
+abstractions: Microsoft.Extensions.Configuration.Abstractions
+
+Configuration is read-only and they are designed NOT TO BE WRITABLE
+
+IConfiguration => top-level abstraction for all configuration providers
+
+
+
+
+
+Logging in .NET
+
+EF Core => interact with database
+
+
