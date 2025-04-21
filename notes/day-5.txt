@@ -35,6 +35,32 @@ it uses classes to provide strongly typed accessed to a group of related setting
 
 Logging in .NET
 
-EF Core => interact with database
+
+
+Sql Server 2022 Express Edition (database s/w)
+Sql Server Management Studio (SSMS)
+
+Data Access in .NET:
+	=> ActiveX Data Object.NET (ADO.NET)
+		=> technique to interact with database
+		=> data providers (collection of types - classes, interfaces etc. to interact with database)
+			=> Connction type (SqlConnection, OracleConnection etc.)
+			=> Command type (SqlCommand, OracleCommand etc.)
+			=> Reader type (SqlDataReader, OracleDataReader etc.)
+			=> Adapter type
+		=> data consumers (collection of types - classes, interfaces etc. to store data fetched from any database)
+			ex: DataSet, DataColumn, DataRow, DataRelation etc.
+			
+	=> EF Core
+
+Entity Framework => .NET Framework (legacy)
+Entity Framework Core => interact with database => .NET (.Net Core)
+
+EF Core with SQL Server
+package: Microsoft.EntityFrameworkCore.SqlServer
+
+
+
+
 
 
